@@ -11,6 +11,9 @@
 // HEADER:
 #include "num_pattern.h"
 
+uint8_t count = 0;
+static const char *TAG = "74HC595N";
+
 // 74HC595N PIN DESCRIPTION | SHIFT REGISTER
 #define SER_PIN GPIO_NUM_20   // SERIAL DATA INPUT PIN
 #define SH_CP_PIN GPIO_NUM_21 // CLOCK INPUT PIN
@@ -19,6 +22,11 @@
 // LSB (least significant bit) first or MSB (most significant bit) first
 #define LSBFIRST 0
 #define MSBFIRST 1
+
+typedef struct
+{
+  uint64_t event_count;
+} example_queue_element_t;
 
 // config of 74HC595N pins
 static esp_err_t gpio_config_shift_register()
@@ -59,7 +67,6 @@ void shift_out(uint8_t dataPin, uint8_t clockPin, uint8_t bitOrder, uint8_t val)
   }
 }
 
-
 // display number to 7 segment 4 digit display
 void display_data()
 {
@@ -69,6 +76,26 @@ void display_data()
   shift_out(SER_PIN, SH_CP_PIN, MSBFIRST, NUMBERS_PATTERN[5]);
   // set pin high to save storage register
   gpio_set_level(ST_CP_PIN, 1);
+}
+
+static bool IRAM_ATTR multiplexing_display_data(gptimer_handle_t timer, const gptimer_alarm_event_data_t *edata, void *user_data)
+{
+  BaseType_t high_task_awoken = pdFALSE;
+
+  gpio_set_level(ST_CP_PIN, 0);
+  shift_out(SER_PIN, SH_CP_PIN, MSBFIRST, NUMBERS_PATTERN[count]);
+  gpio_set_level(ST_CP_PIN, 1);
+  if (count < 10)
+  {
+    count++;
+  }
+  else
+  {
+    count = 0;
+  }
+
+  // return whether we need to yield at the end of ISR
+  return (high_task_awoken == pdTRUE);
 }
 
 void app_main(void)
@@ -88,11 +115,44 @@ void app_main(void)
   io_conf.pull_down_en = GPIO_PULLDOWN_DISABLE;
   // configure GPIO with the given settings
   gpio_config(&io_conf);
-  
+
   // enable power supply of display
   gpio_set_level(GPIO_NUM_0, 0);
   // enable first digit of display
   gpio_set_level(GPIO_NUM_1, 0);
   // show data on display
-  display_data();
+  // display_data();
+
+  // create xQueue 
+  QueueHandle_t queue = xQueueCreate(10, sizeof(example_queue_element_t));
+  if (!queue)
+  {
+    ESP_LOGE(TAG, "Creating queue failed");
+    return;
+  }
+
+  ESP_LOGI(TAG, "Create timer handle");
+  gptimer_handle_t gptimer = NULL;
+  gptimer_config_t timer_config = {
+      .clk_src = GPTIMER_CLK_SRC_DEFAULT,
+      .direction = GPTIMER_COUNT_UP,
+      .resolution_hz = 1000000, // 1MHz, 1 tick=1us
+  };
+  ESP_ERROR_CHECK(gptimer_new_timer(&timer_config, &gptimer));
+
+  gptimer_alarm_config_t alarm_config1 = {
+      .reload_count = 0,
+      .alarm_count = 1000000, // period = 1s
+      .flags.auto_reload_on_alarm = true,
+  };
+
+  gptimer_event_callbacks_t cbs = {
+      .on_alarm = multiplexing_display_data,
+  };
+
+  ESP_ERROR_CHECK(gptimer_set_alarm_action(gptimer, &alarm_config1));
+  ESP_ERROR_CHECK(gptimer_register_event_callbacks(gptimer, &cbs, queue));
+  ESP_LOGI(TAG, "Enable timer");
+  ESP_ERROR_CHECK(gptimer_enable(gptimer));
+  ESP_ERROR_CHECK(gptimer_start(gptimer));
 }
