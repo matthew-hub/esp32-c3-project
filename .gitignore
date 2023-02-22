@@ -1,0 +1,13 @@
+
+# vscode settings
+.vscode
+
+# ESP-IDF default build directory name
+/build
+
+# ESP-IDF project Configuration
+sdkconfig
+sdkconfig.old
+
+# ina3221 add later
+/components/ina3221
