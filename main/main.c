@@ -11,17 +11,28 @@
 // HEADER:
 #include "num_pattern.h"
 
-uint8_t count = 0;
 static const char *TAG = "74HC595N";
 
 // 74HC595N PIN DESCRIPTION | SHIFT REGISTER
 #define SER_PIN GPIO_NUM_20   // SERIAL DATA INPUT PIN
 #define SH_CP_PIN GPIO_NUM_21 // CLOCK INPUT PIN
 #define ST_CP_PIN GPIO_NUM_2  // LATCH PIN
+// DISPLAY DIGIT GPIOs
+#define DIG_1_PIN GPIO_NUM_1
+#define DIG_2_PIN GPIO_NUM_5
+#define DIG_3_PIN GPIO_NUM_4
+#define DIG_4_PIN GPIO_NUM_6
 
 // LSB (least significant bit) first or MSB (most significant bit) first
 #define LSBFIRST 0
 #define MSBFIRST 1
+
+// array of digits pin
+const uint8_t DIG_PINS[4] = {DIG_1_PIN, DIG_2_PIN, DIG_3_PIN, DIG_4_PIN};
+// array of numbers to display
+uint8_t NUMBERS_TO_DISPLAY[4] = {3, 4, 2, 2};
+// order of the digit
+uint8_t ORDER_DIGITS = 0;
 
 typedef struct
 {
@@ -67,32 +78,29 @@ void shift_out(uint8_t dataPin, uint8_t clockPin, uint8_t bitOrder, uint8_t val)
   }
 }
 
-// display number to 7 segment 4 digit display
-void display_data()
-{
-  // set pin low to send register | ST_CP_PIN = latch
-  gpio_set_level(ST_CP_PIN, 0);
-  // send byte of data | SER_PIN = DATA, SH_CP_PINT = CLOCK
-  shift_out(SER_PIN, SH_CP_PIN, MSBFIRST, NUMBERS_PATTERN[5]);
-  // set pin high to save storage register
-  gpio_set_level(ST_CP_PIN, 1);
-}
-
+// display number with multiplexing 4 digits
 static bool IRAM_ATTR multiplexing_display_data(gptimer_handle_t timer, const gptimer_alarm_event_data_t *edata, void *user_data)
 {
   BaseType_t high_task_awoken = pdFALSE;
 
-  gpio_set_level(ST_CP_PIN, 0);
-  shift_out(SER_PIN, SH_CP_PIN, MSBFIRST, NUMBERS_PATTERN[count]);
-  gpio_set_level(ST_CP_PIN, 1);
-  if (count < 10)
-  {
-    count++;
-  }
+  // turn off the previous digit
+  if (ORDER_DIGITS == 0) // if 0 turn the last one
+    gpio_set_level(DIG_PINS[3], 1);
   else
-  {
-    count = 0;
-  }
+    gpio_set_level(DIG_PINS[ORDER_DIGITS - 1], 1);
+
+  // set pin low to send register | ST_CP_PIN = latch
+  gpio_set_level(ST_CP_PIN, 0);
+  // send byte of data | SER_PIN = DATA, SH_CP_PINT = CLOCK
+  shift_out(SER_PIN, SH_CP_PIN, MSBFIRST, NUMBERS_PATTERN[NUMBERS_TO_DISPLAY[ORDER_DIGITS]]);
+  // set pin high to save storage register
+  gpio_set_level(ST_CP_PIN, 1);
+  // turn on the correct digit
+  gpio_set_level(DIG_PINS[ORDER_DIGITS], 0);
+
+  ORDER_DIGITS++;
+  if (ORDER_DIGITS == 4)
+    ORDER_DIGITS = 0;
 
   // return whether we need to yield at the end of ISR
   return (high_task_awoken == pdTRUE);
@@ -109,7 +117,7 @@ void app_main(void)
   // set as output mode
   io_conf.mode = GPIO_MODE_OUTPUT;
   // bit mask of the pins that you want to set,e.g.GPIO18/19
-  io_conf.pin_bit_mask = (1ULL << GPIO_NUM_0) | (1ULL << GPIO_NUM_1);
+  io_conf.pin_bit_mask = (1ULL << GPIO_NUM_0) | (1ULL << DIG_1_PIN) | (1ULL << DIG_2_PIN) | (1ULL << DIG_3_PIN) | (1ULL << DIG_4_PIN);
   // disable pull-down mode
   io_conf.pull_up_en = GPIO_PULLUP_DISABLE;
   io_conf.pull_down_en = GPIO_PULLDOWN_DISABLE;
@@ -118,12 +126,13 @@ void app_main(void)
 
   // enable power supply of display
   gpio_set_level(GPIO_NUM_0, 0);
-  // enable first digit of display
-  gpio_set_level(GPIO_NUM_1, 0);
-  // show data on display
-  // display_data();
+  // disable all digit of display
+  gpio_set_level(DIG_1_PIN, 1);
+  gpio_set_level(DIG_2_PIN, 1);
+  gpio_set_level(DIG_3_PIN, 1);
+  gpio_set_level(DIG_4_PIN, 1);
 
-  // create xQueue 
+  // create xQueue
   QueueHandle_t queue = xQueueCreate(10, sizeof(example_queue_element_t));
   if (!queue)
   {
@@ -142,7 +151,7 @@ void app_main(void)
 
   gptimer_alarm_config_t alarm_config1 = {
       .reload_count = 0,
-      .alarm_count = 1000000, // period = 1s
+      .alarm_count = 3000, // period = 1s
       .flags.auto_reload_on_alarm = true,
   };
 
