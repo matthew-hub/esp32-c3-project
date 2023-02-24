@@ -7,6 +7,7 @@
 #include "driver/gpio.h"
 #include "esp_log.h"
 // COMPONENT:
+#include <button.h>
 
 // HEADER:
 #include "num_pattern.h"
@@ -33,6 +34,15 @@ const uint8_t DIG_PINS[4] = {DIG_1_PIN, DIG_2_PIN, DIG_3_PIN, DIG_4_PIN};
 uint8_t NUMBERS_TO_DISPLAY[4] = {3, 4, 2, 2};
 // order of the digit
 uint8_t ORDER_DIGITS = 0;
+
+static const char *states[] = {
+    [BUTTON_PRESSED] = "pressed",
+    [BUTTON_RELEASED] = "released",
+    [BUTTON_CLICKED] = "clicked",
+    [BUTTON_PRESSED_LONG] = "pressed long",
+};
+
+static button_t btn1;
 
 typedef struct
 {
@@ -106,6 +116,11 @@ static bool IRAM_ATTR multiplexing_display_data(gptimer_handle_t timer, const gp
   return (high_task_awoken == pdTRUE);
 }
 
+static void on_button(button_t *btn, button_state_t state)
+{
+  ESP_LOGI(TAG, "%s button %s", btn == &btn1 ? "First" : "Second", states[state]);
+}
+
 void app_main(void)
 {
   // set shift register gpio config
@@ -132,6 +147,16 @@ void app_main(void)
   gpio_set_level(DIG_3_PIN, 1);
   gpio_set_level(DIG_4_PIN, 1);
 
+  // First button connected between GPIO and GND
+  // pressed logic level 0, no autorepeat
+  btn1.gpio = GPIO_NUM_7;
+  btn1.pressed_level = 0;
+  btn1.internal_pull = true;
+  btn1.autorepeat = false;
+  btn1.callback = on_button;
+
+  ESP_ERROR_CHECK(button_init(&btn1));
+
   // create xQueue
   QueueHandle_t queue = xQueueCreate(10, sizeof(example_queue_element_t));
   if (!queue)
@@ -151,7 +176,7 @@ void app_main(void)
 
   gptimer_alarm_config_t alarm_config1 = {
       .reload_count = 0,
-      .alarm_count = 3000, // period = 1s
+      .alarm_count = 5000, // period = 1s
       .flags.auto_reload_on_alarm = true,
   };
 
