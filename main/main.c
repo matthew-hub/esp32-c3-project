@@ -1,14 +1,16 @@
 // ESP-IDF:
 #include <stdio.h>
-#include "freertos/FreeRTOS.h"
-#include "freertos/task.h"
-#include "freertos/queue.h"
-#include "driver/gptimer.h"
-#include "driver/gpio.h"
-#include "esp_log.h"
+#include <freertos/FreeRTOS.h>
+#include <freertos/task.h>
+#include <freertos/queue.h>
+#include <driver/gptimer.h>
+#include <driver/gpio.h>
+#include <esp_err.h>
+#include <esp_log.h>
+#include <esp_system.h>
 // COMPONENT:
 #include <button.h>
-
+#include <aht.h>
 // HEADER:
 #include "num_pattern.h"
 
@@ -28,12 +30,20 @@ static const char *TAG = "74HC595N";
 #define LSBFIRST 0
 #define MSBFIRST 1
 
+// aht i2c address "0x38" GND
+#define AHT_ADDR AHT_I2C_ADDRESS_GND
+// aht type "aht20"
+#define AHT_TYPE AHT_TYPE_AHT20
+// SDA SCL aht pin
+#define AHT_SDA_PIN GPIO_NUM_8
+#define AHT_SCL_PIN GPIO_NUM_9
+
 // array of digits pin
 const uint8_t DIG_PINS[4] = {DIG_1_PIN, DIG_2_PIN, DIG_3_PIN, DIG_4_PIN};
 // array of numbers to display
-uint8_t NUMBERS_TO_DISPLAY[4] = {3, 4, 2, 2};
+uint8_t NUMBERS_TO_DISPLAY[4] = {2, 4, 8, 3};
 // order of the digit
-uint8_t ORDER_DIGITS = 0;
+int ORDER_DIGITS = 0;
 
 static const char *states[] = {
     [BUTTON_PRESSED] = "pressed",
@@ -105,6 +115,7 @@ static bool IRAM_ATTR multiplexing_display_data(gptimer_handle_t timer, const gp
   shift_out(SER_PIN, SH_CP_PIN, MSBFIRST, NUMBERS_PATTERN[NUMBERS_TO_DISPLAY[ORDER_DIGITS]]);
   // set pin high to save storage register
   gpio_set_level(ST_CP_PIN, 1);
+
   // turn on the correct digit
   gpio_set_level(DIG_PINS[ORDER_DIGITS], 0);
 
@@ -119,6 +130,36 @@ static bool IRAM_ATTR multiplexing_display_data(gptimer_handle_t timer, const gp
 static void on_button(button_t *btn, button_state_t state)
 {
   ESP_LOGI(TAG, "%s button %s", btn == &btn1 ? "First" : "Second", states[state]);
+}
+
+void aht20_task(void *pvParameters)
+{
+  aht_t dev = {0};
+  dev.mode = AHT_MODE_NORMAL;
+  dev.type = AHT_TYPE;
+
+  ESP_ERROR_CHECK(aht_init_desc(&dev, AHT_ADDR, 0, AHT_SDA_PIN, AHT_SCL_PIN));
+  ESP_ERROR_CHECK(aht_init(&dev));
+
+  bool calibrated;
+  ESP_ERROR_CHECK(aht_get_status(&dev, NULL, &calibrated));
+  if (calibrated)
+    ESP_LOGI(TAG, "Sensor calibrated");
+  else
+    ESP_LOGW(TAG, "Sensor not calibrated!");
+
+  float temperature, humidity;
+
+  while (1)
+  {
+    esp_err_t res = aht_get_data(&dev, &temperature, &humidity);
+    if (res == ESP_OK)
+      ESP_LOGI(TAG, "Temperature: %.1f°C, Humidity: %.2f%%", temperature, humidity);
+    else
+      ESP_LOGE(TAG, "Error reading data: %d (%s)", res, esp_err_to_name(res));
+
+    vTaskDelay(pdMS_TO_TICKS(2000));
+  }
 }
 
 void app_main(void)
@@ -176,7 +217,7 @@ void app_main(void)
 
   gptimer_alarm_config_t alarm_config1 = {
       .reload_count = 0,
-      .alarm_count = 5000, // period = 1s
+      .alarm_count = 3000, // period = 1s
       .flags.auto_reload_on_alarm = true,
   };
 
@@ -189,4 +230,7 @@ void app_main(void)
   ESP_LOGI(TAG, "Enable timer");
   ESP_ERROR_CHECK(gptimer_enable(gptimer));
   ESP_ERROR_CHECK(gptimer_start(gptimer));
+
+  ESP_ERROR_CHECK(i2cdev_init());
+  xTaskCreate(aht20_task, "AHT_20:", configMINIMAL_STACK_SIZE * 8, NULL, 5, NULL);
 }
