@@ -1,0 +1,1436 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="408.121" height="393.996" viewBox="0 0 408.121 393.996">
+  <g id="Group_375" data-name="Group 375" transform="translate(-1494.729 -1937)">
+    <g id="Group_374" data-name="Group 374" transform="translate(3 -1)">
+      <line id="Line_1" data-name="Line 1" x1="5.76" y2="2.88" transform="translate(1618.642 2165.945)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_2" data-name="Line 2" x2="5.76" y2="2.88" transform="translate(1618.642 2177.465)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_3" data-name="Line 3" x2="1.44" y2="2.88" transform="translate(1620.802 2165.945)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_4" data-name="Line 4" x1="3.6" transform="translate(1618.642 2168.825)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_5" data-name="Line 5" y1="2.88" x2="2.16" transform="translate(1618.642 2165.945)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_6" data-name="Line 6" x2="1.008" y2="1.944" transform="translate(1620.658 2166.593)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <line id="Line_7" data-name="Line 7" x2="0.72" y2="1.512" transform="translate(1620.442 2167.025)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <line id="Line_8" data-name="Line 8" x2="0.576" y2="1.152" transform="translate(1620.082 2167.385)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <line id="Line_9" data-name="Line 9" x2="0.288" y2="0.648" transform="translate(1619.866 2167.817)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <line id="Line_10" data-name="Line 10" x2="0.216" y2="0.432" transform="translate(1619.506 2168.105)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="2.16" height="14.4" transform="translate(1616.482 2165.945)"/>
+      <line id="connector0pin" x2="7.2" transform="translate(1610.002 2173.145)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <text id="_1" data-name="1" transform="translate(1613.602 2172.095)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-1.008" y="0">1</tspan></text>
+      <line id="connector1pin" y1="7.2" transform="translate(1624.402 2180.345)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <g id="Group_4" data-name="Group 4" transform="translate(1623.352 2183.945)">
+        <g id="Group_3" data-name="Group 3">
+          <g id="Group_2" data-name="Group 2" transform="rotate(-90)">
+            <g id="Group_1" data-name="Group 1">
+              <text id="_3" data-name="3" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">3</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="connector2pin" y2="7.2" transform="translate(1624.402 2158.745)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <g id="Group_8" data-name="Group 8" transform="translate(1623.352 2162.345)">
+        <g id="Group_7" data-name="Group 7">
+          <g id="Group_6" data-name="Group 6" transform="rotate(-90)">
+            <g id="Group_5" data-name="Group 5">
+              <text id="_2" data-name="2" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">2</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="Line_11" data-name="Line 11" x1="5.76" y2="2.88" transform="translate(1589.842 2165.945)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_12" data-name="Line 12" x2="5.76" y2="2.88" transform="translate(1589.842 2177.465)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_13" data-name="Line 13" x2="1.44" y2="2.88" transform="translate(1592.002 2165.945)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_14" data-name="Line 14" x1="3.6" transform="translate(1589.842 2168.825)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_15" data-name="Line 15" y1="2.88" x2="2.16" transform="translate(1589.842 2165.945)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_16" data-name="Line 16" x2="1.008" y2="1.944" transform="translate(1591.858 2166.593)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <line id="Line_17" data-name="Line 17" x2="0.72" y2="1.512" transform="translate(1591.642 2167.025)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <line id="Line_18" data-name="Line 18" x2="0.576" y2="1.152" transform="translate(1591.282 2167.385)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <line id="Line_19" data-name="Line 19" x2="0.288" y2="0.648" transform="translate(1591.066 2167.817)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <line id="Line_20" data-name="Line 20" x2="0.216" y2="0.432" transform="translate(1590.706 2168.105)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="2.16" height="14.4" transform="translate(1587.682 2165.945)"/>
+      <line id="connector0pin-2" data-name="connector0pin" x2="7.2" transform="translate(1581.202 2173.145)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <text id="_1-2" data-name="1" transform="translate(1584.802 2172.095)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-1.008" y="0">1</tspan></text>
+      <line id="connector1pin-2" data-name="connector1pin" y1="7.2" transform="translate(1595.602 2180.345)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <g id="Group_14" data-name="Group 14" transform="translate(1594.552 2183.945)">
+        <g id="Group_13" data-name="Group 13">
+          <g id="Group_12" data-name="Group 12" transform="rotate(-90)">
+            <g id="Group_11" data-name="Group 11">
+              <text id="_3-2" data-name="3" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">3</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="connector2pin-2" data-name="connector2pin" y2="7.2" transform="translate(1595.602 2158.745)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <g id="Group_18" data-name="Group 18" transform="translate(1594.552 2162.345)">
+        <g id="Group_17" data-name="Group 17">
+          <g id="Group_16" data-name="Group 16" transform="rotate(-90)">
+            <g id="Group_15" data-name="Group 15">
+              <text id="_2-2" data-name="2" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">2</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="Line_21" data-name="Line 21" x1="5.76" y2="2.88" transform="translate(1561.042 2165.945)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_22" data-name="Line 22" x2="5.76" y2="2.88" transform="translate(1561.042 2177.465)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_23" data-name="Line 23" x2="1.44" y2="2.88" transform="translate(1563.202 2165.945)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_24" data-name="Line 24" x1="3.6" transform="translate(1561.042 2168.825)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_25" data-name="Line 25" y1="2.88" x2="2.16" transform="translate(1561.042 2165.945)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_26" data-name="Line 26" x2="1.008" y2="1.944" transform="translate(1563.058 2166.593)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <line id="Line_27" data-name="Line 27" x2="0.72" y2="1.512" transform="translate(1562.842 2167.025)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <line id="Line_28" data-name="Line 28" x2="0.576" y2="1.152" transform="translate(1562.482 2167.385)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <line id="Line_29" data-name="Line 29" x2="0.288" y2="0.648" transform="translate(1562.266 2167.817)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <line id="Line_30" data-name="Line 30" x2="0.216" y2="0.432" transform="translate(1561.906 2168.105)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="2.16" height="14.4" transform="translate(1558.882 2165.945)"/>
+      <line id="connector0pin-3" data-name="connector0pin" x2="7.2" transform="translate(1552.402 2173.145)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <text id="_1-3" data-name="1" transform="translate(1556.002 2172.095)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-1.008" y="0">1</tspan></text>
+      <line id="connector1pin-3" data-name="connector1pin" y1="7.2" transform="translate(1566.802 2180.345)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <g id="Group_24" data-name="Group 24" transform="translate(1565.752 2183.945)">
+        <g id="Group_23" data-name="Group 23">
+          <g id="Group_22" data-name="Group 22" transform="rotate(-90)">
+            <g id="Group_21" data-name="Group 21">
+              <text id="_3-3" data-name="3" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">3</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="connector2pin-3" data-name="connector2pin" y2="7.2" transform="translate(1566.802 2158.745)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <g id="Group_28" data-name="Group 28" transform="translate(1565.752 2162.345)">
+        <g id="Group_27" data-name="Group 27">
+          <g id="Group_26" data-name="Group 26" transform="rotate(-90)">
+            <g id="Group_25" data-name="Group 25">
+              <text id="_2-3" data-name="2" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">2</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="Line_31" data-name="Line 31" x1="5.76" y2="2.88" transform="translate(1532.242 2165.945)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_32" data-name="Line 32" x2="5.76" y2="2.88" transform="translate(1532.242 2177.465)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_33" data-name="Line 33" x2="1.44" y2="2.88" transform="translate(1534.402 2165.945)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_34" data-name="Line 34" x1="3.6" transform="translate(1532.242 2168.825)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_35" data-name="Line 35" y1="2.88" x2="2.16" transform="translate(1532.242 2165.945)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_36" data-name="Line 36" x2="1.008" y2="1.944" transform="translate(1534.258 2166.593)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <line id="Line_37" data-name="Line 37" x2="0.72" y2="1.512" transform="translate(1534.042 2167.025)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <line id="Line_38" data-name="Line 38" x2="0.576" y2="1.152" transform="translate(1533.682 2167.385)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <line id="Line_39" data-name="Line 39" x2="0.288" y2="0.648" transform="translate(1533.466 2167.817)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <line id="Line_40" data-name="Line 40" x2="0.216" y2="0.432" transform="translate(1533.106 2168.105)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="2.16" height="14.4" transform="translate(1530.082 2165.945)"/>
+      <line id="connector0pin-4" data-name="connector0pin" x2="7.2" transform="translate(1523.602 2173.145)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <text id="_1-4" data-name="1" transform="translate(1527.202 2172.095)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-1.008" y="0">1</tspan></text>
+      <line id="connector1pin-4" data-name="connector1pin" y1="7.2" transform="translate(1538.002 2180.345)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <g id="Group_34" data-name="Group 34" transform="translate(1536.952 2183.945)">
+        <g id="Group_33" data-name="Group 33">
+          <g id="Group_32" data-name="Group 32" transform="rotate(-90)">
+            <g id="Group_31" data-name="Group 31">
+              <text id="_3-4" data-name="3" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">3</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="connector2pin-4" data-name="connector2pin" y2="7.2" transform="translate(1538.002 2158.745)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <g id="Group_38" data-name="Group 38" transform="translate(1536.952 2162.345)">
+        <g id="Group_37" data-name="Group 37">
+          <g id="Group_36" data-name="Group 36" transform="rotate(-90)">
+            <g id="Group_35" data-name="Group 35">
+              <text id="_2-4" data-name="2" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">2</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="Line_41" data-name="Line 41" x1="5.76" y2="2.88" transform="translate(1503.442 2165.945)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_42" data-name="Line 42" x2="5.76" y2="2.88" transform="translate(1503.442 2177.465)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_43" data-name="Line 43" x2="1.44" y2="2.88" transform="translate(1505.602 2165.945)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_44" data-name="Line 44" x1="3.6" transform="translate(1503.442 2168.825)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_45" data-name="Line 45" y1="2.88" x2="2.16" transform="translate(1503.442 2165.945)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+      <line id="Line_46" data-name="Line 46" x2="1.008" y2="1.944" transform="translate(1505.458 2166.593)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <line id="Line_47" data-name="Line 47" x2="0.72" y2="1.512" transform="translate(1505.242 2167.025)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <line id="Line_48" data-name="Line 48" x2="0.576" y2="1.152" transform="translate(1504.882 2167.385)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <line id="Line_49" data-name="Line 49" x2="0.288" y2="0.648" transform="translate(1504.666 2167.817)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <line id="Line_50" data-name="Line 50" x2="0.216" y2="0.432" transform="translate(1504.306 2168.105)" stroke="#000" stroke-linecap="round" stroke-width="0.576"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="2.16" height="14.4" transform="translate(1501.282 2165.945)"/>
+      <line id="connector0pin-5" data-name="connector0pin" x2="7.2" transform="translate(1494.802 2173.145)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <text id="_1-5" data-name="1" transform="translate(1498.402 2172.095)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-1.008" y="0">1</tspan></text>
+      <line id="connector1pin-5" data-name="connector1pin" y1="7.2" transform="translate(1509.202 2180.345)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <g id="Group_44" data-name="Group 44" transform="translate(1508.152 2183.945)">
+        <g id="Group_43" data-name="Group 43">
+          <g id="Group_42" data-name="Group 42" transform="rotate(-90)">
+            <g id="Group_41" data-name="Group 41">
+              <text id="_3-5" data-name="3" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">3</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="connector2pin-5" data-name="connector2pin" y2="7.2" transform="translate(1509.202 2158.745)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <g id="Group_48" data-name="Group 48" transform="translate(1508.152 2162.345)">
+        <g id="Group_47" data-name="Group 47">
+          <g id="Group_46" data-name="Group 46" transform="rotate(-90)">
+            <g id="Group_45" data-name="Group 45">
+              <text id="_2-5" data-name="2" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">2</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="schematic" transform="translate(1768.83 1951.255) rotate(90)">
+        <line id="Line_51" data-name="Line 51" y2="1.44" transform="translate(5.76 7.55)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_52" data-name="Line 52" y1="1.44" transform="translate(5.76 13.31)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <rect id="Rectangle_6" data-name="Rectangle 6" width="11.52" height="1.44" transform="translate(0 11.87)"/>
+        <rect id="Rectangle_7" data-name="Rectangle 7" width="11.52" height="1.44" transform="translate(0 8.99)"/>
+        <line id="connector1pin-6" data-name="connector1pin" y2="7.2" transform="translate(5.76 0.35)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <g id="Group_54" data-name="Group 54" transform="translate(4.71 3.95)">
+          <g id="Group_53" data-name="Group 53">
+            <g id="Group_52" data-name="Group 52" transform="rotate(-90)">
+              <g id="Group_51" data-name="Group 51">
+                <text id="_1-6" data-name="1" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">1</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <line id="connector0pin-6" data-name="connector0pin" y1="7.2" transform="translate(5.76 14.75)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <g id="Group_58" data-name="Group 58" transform="translate(4.71 18.35)">
+          <g id="Group_57" data-name="Group 57">
+            <g id="Group_56" data-name="Group 56" transform="rotate(-90)">
+              <g id="Group_55" data-name="Group 55">
+                <text id="_2-6" data-name="2" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">2</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="schematic-2" data-name="schematic" transform="translate(1641.976 2143.865) rotate(90)">
+        <line id="Line_53" data-name="Line 53" y1="2.88" x2="1.08" transform="translate(7.55 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_54" data-name="Line 54" x2="1.8" y2="5.76" transform="translate(8.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_55" data-name="Line 55" y1="5.76" x2="1.8" transform="translate(10.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_56" data-name="Line 56" x2="1.8" y2="5.76" transform="translate(12.23 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_57" data-name="Line 57" y1="5.76" x2="1.8" transform="translate(14.03 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_58" data-name="Line 58" x2="1.8" y2="5.76" transform="translate(15.83 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_59" data-name="Line 59" y1="5.76" x2="1.8" transform="translate(17.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_60" data-name="Line 60" x2="1.8" y2="5.76" transform="translate(19.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_61" data-name="Line 61" y1="2.88" x2="0.72" transform="translate(21.23 3.096)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="connector1pin-7" data-name="connector1pin" x1="7.2" transform="translate(21.95 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_2-7" data-name="2" transform="translate(25.55 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">2</tspan></text>
+        <line id="connector0pin-7" data-name="connector0pin" x2="7.2" transform="translate(0.35 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_1-7" data-name="1" transform="translate(3.95 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">1</tspan></text>
+      </g>
+      <g id="schematic-3" data-name="schematic" transform="translate(1670.776 2143.865) rotate(90)">
+        <line id="Line_62" data-name="Line 62" y1="2.88" x2="1.08" transform="translate(7.55 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_63" data-name="Line 63" x2="1.8" y2="5.76" transform="translate(8.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_64" data-name="Line 64" y1="5.76" x2="1.8" transform="translate(10.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_65" data-name="Line 65" x2="1.8" y2="5.76" transform="translate(12.23 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_66" data-name="Line 66" y1="5.76" x2="1.8" transform="translate(14.03 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_67" data-name="Line 67" x2="1.8" y2="5.76" transform="translate(15.83 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_68" data-name="Line 68" y1="5.76" x2="1.8" transform="translate(17.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_69" data-name="Line 69" x2="1.8" y2="5.76" transform="translate(19.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_70" data-name="Line 70" y1="2.88" x2="0.72" transform="translate(21.23 3.096)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="connector1pin-8" data-name="connector1pin" x1="7.2" transform="translate(21.95 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_2-8" data-name="2" transform="translate(25.55 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">2</tspan></text>
+        <line id="connector0pin-8" data-name="connector0pin" x2="7.2" transform="translate(0.35 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_1-8" data-name="1" transform="translate(3.95 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">1</tspan></text>
+      </g>
+      <g id="schematic-4" data-name="schematic" transform="translate(1685.176 2143.865) rotate(90)">
+        <line id="Line_71" data-name="Line 71" y1="2.88" x2="1.08" transform="translate(7.55 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_72" data-name="Line 72" x2="1.8" y2="5.76" transform="translate(8.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_73" data-name="Line 73" y1="5.76" x2="1.8" transform="translate(10.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_74" data-name="Line 74" x2="1.8" y2="5.76" transform="translate(12.23 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_75" data-name="Line 75" y1="5.76" x2="1.8" transform="translate(14.03 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_76" data-name="Line 76" x2="1.8" y2="5.76" transform="translate(15.83 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_77" data-name="Line 77" y1="5.76" x2="1.8" transform="translate(17.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_78" data-name="Line 78" x2="1.8" y2="5.76" transform="translate(19.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_79" data-name="Line 79" y1="2.88" x2="0.72" transform="translate(21.23 3.096)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="connector1pin-9" data-name="connector1pin" x1="7.2" transform="translate(21.95 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_2-9" data-name="2" transform="translate(25.55 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">2</tspan></text>
+        <line id="connector0pin-9" data-name="connector0pin" x2="7.2" transform="translate(0.35 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_1-9" data-name="1" transform="translate(3.95 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">1</tspan></text>
+      </g>
+      <g id="schematic-5" data-name="schematic" transform="translate(1692.376 2143.865) rotate(90)">
+        <line id="Line_80" data-name="Line 80" y1="2.88" x2="1.08" transform="translate(7.55 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_81" data-name="Line 81" x2="1.8" y2="5.76" transform="translate(8.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_82" data-name="Line 82" y1="5.76" x2="1.8" transform="translate(10.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_83" data-name="Line 83" x2="1.8" y2="5.76" transform="translate(12.23 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_84" data-name="Line 84" y1="5.76" x2="1.8" transform="translate(14.03 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_85" data-name="Line 85" x2="1.8" y2="5.76" transform="translate(15.83 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_86" data-name="Line 86" y1="5.76" x2="1.8" transform="translate(17.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_87" data-name="Line 87" x2="1.8" y2="5.76" transform="translate(19.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_88" data-name="Line 88" y1="2.88" x2="0.72" transform="translate(21.23 3.096)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="connector1pin-10" data-name="connector1pin" x1="7.2" transform="translate(21.95 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_2-10" data-name="2" transform="translate(25.55 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">2</tspan></text>
+        <line id="connector0pin-10" data-name="connector0pin" x2="7.2" transform="translate(0.35 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_1-10" data-name="1" transform="translate(3.95 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">1</tspan></text>
+      </g>
+      <g id="schematic-6" data-name="schematic" transform="translate(1677.976 2143.865) rotate(90)">
+        <line id="Line_89" data-name="Line 89" y1="2.88" x2="1.08" transform="translate(7.55 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_90" data-name="Line 90" x2="1.8" y2="5.76" transform="translate(8.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_91" data-name="Line 91" y1="5.76" x2="1.8" transform="translate(10.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_92" data-name="Line 92" x2="1.8" y2="5.76" transform="translate(12.23 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_93" data-name="Line 93" y1="5.76" x2="1.8" transform="translate(14.03 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_94" data-name="Line 94" x2="1.8" y2="5.76" transform="translate(15.83 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_95" data-name="Line 95" y1="5.76" x2="1.8" transform="translate(17.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_96" data-name="Line 96" x2="1.8" y2="5.76" transform="translate(19.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_97" data-name="Line 97" y1="2.88" x2="0.72" transform="translate(21.23 3.096)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="connector1pin-11" data-name="connector1pin" x1="7.2" transform="translate(21.95 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_2-11" data-name="2" transform="translate(25.55 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">2</tspan></text>
+        <line id="connector0pin-11" data-name="connector0pin" x2="7.2" transform="translate(0.35 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_1-11" data-name="1" transform="translate(3.95 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">1</tspan></text>
+      </g>
+      <g id="schematic-7" data-name="schematic" transform="translate(1663.576 2143.865) rotate(90)">
+        <line id="Line_98" data-name="Line 98" y1="2.88" x2="1.08" transform="translate(7.55 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_99" data-name="Line 99" x2="1.8" y2="5.76" transform="translate(8.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_100" data-name="Line 100" y1="5.76" x2="1.8" transform="translate(10.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_101" data-name="Line 101" x2="1.8" y2="5.76" transform="translate(12.23 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_102" data-name="Line 102" y1="5.76" x2="1.8" transform="translate(14.03 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_103" data-name="Line 103" x2="1.8" y2="5.76" transform="translate(15.83 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_104" data-name="Line 104" y1="5.76" x2="1.8" transform="translate(17.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_105" data-name="Line 105" x2="1.8" y2="5.76" transform="translate(19.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_106" data-name="Line 106" y1="2.88" x2="0.72" transform="translate(21.23 3.096)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="connector1pin-12" data-name="connector1pin" x1="7.2" transform="translate(21.95 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_2-12" data-name="2" transform="translate(25.55 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">2</tspan></text>
+        <line id="connector0pin-12" data-name="connector0pin" x2="7.2" transform="translate(0.35 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_1-12" data-name="1" transform="translate(3.95 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">1</tspan></text>
+      </g>
+      <g id="schematic-8" data-name="schematic" transform="translate(1656.376 2143.865) rotate(90)">
+        <line id="Line_107" data-name="Line 107" y1="2.88" x2="1.08" transform="translate(7.55 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_108" data-name="Line 108" x2="1.8" y2="5.76" transform="translate(8.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_109" data-name="Line 109" y1="5.76" x2="1.8" transform="translate(10.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_110" data-name="Line 110" x2="1.8" y2="5.76" transform="translate(12.23 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_111" data-name="Line 111" y1="5.76" x2="1.8" transform="translate(14.03 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_112" data-name="Line 112" x2="1.8" y2="5.76" transform="translate(15.83 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_113" data-name="Line 113" y1="5.76" x2="1.8" transform="translate(17.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_114" data-name="Line 114" x2="1.8" y2="5.76" transform="translate(19.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_115" data-name="Line 115" y1="2.88" x2="0.72" transform="translate(21.23 3.096)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="connector1pin-13" data-name="connector1pin" x1="7.2" transform="translate(21.95 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_2-13" data-name="2" transform="translate(25.55 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">2</tspan></text>
+        <line id="connector0pin-13" data-name="connector0pin" x2="7.2" transform="translate(0.35 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_1-13" data-name="1" transform="translate(3.95 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">1</tspan></text>
+      </g>
+      <g id="schematic-9" data-name="schematic" transform="translate(1649.176 2143.865) rotate(90)">
+        <line id="Line_116" data-name="Line 116" y1="2.88" x2="1.08" transform="translate(7.55 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_117" data-name="Line 117" x2="1.8" y2="5.76" transform="translate(8.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_118" data-name="Line 118" y1="5.76" x2="1.8" transform="translate(10.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_119" data-name="Line 119" x2="1.8" y2="5.76" transform="translate(12.23 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_120" data-name="Line 120" y1="5.76" x2="1.8" transform="translate(14.03 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_121" data-name="Line 121" x2="1.8" y2="5.76" transform="translate(15.83 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_122" data-name="Line 122" y1="5.76" x2="1.8" transform="translate(17.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_123" data-name="Line 123" x2="1.8" y2="5.76" transform="translate(19.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_124" data-name="Line 124" y1="2.88" x2="0.72" transform="translate(21.23 3.096)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="connector1pin-14" data-name="connector1pin" x1="7.2" transform="translate(21.95 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_2-14" data-name="2" transform="translate(25.55 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">2</tspan></text>
+        <line id="connector0pin-14" data-name="connector0pin" x2="7.2" transform="translate(0.35 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_1-14" data-name="1" transform="translate(3.95 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">1</tspan></text>
+      </g>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="28.35" height="71.1" transform="translate(1545.28 2022.266)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.9"/>
+      <text id="label" transform="translate(1559.68 2054.316)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-5.77" y="0">BEETLE</tspan></text>
+      <line id="Line_125" data-name="Line 125" x2="14.05" transform="translate(1531.23 2029.016)" fill="none" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <rect id="connector0pin-15" data-name="connector0pin" width="14.4" height="0.7" transform="translate(1530.88 2028.666)" fill="none"/>
+      <text id="label0" transform="translate(1546.68 2029.716)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">GND</tspan></text>
+      <text id="_1-15" data-name="1" transform="translate(1538.08 2027.966)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-1.008" y="0">1</tspan></text>
+      <line id="Line_126" data-name="Line 126" x2="14.05" transform="translate(1531.23 2036.216)" fill="none" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <rect id="connector1pin-15" data-name="connector1pin" width="14.4" height="0.7" transform="translate(1530.88 2035.866)" fill="none"/>
+      <text id="label1" transform="translate(1546.68 2036.916)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">3v3</tspan></text>
+      <text id="_2-15" data-name="2" transform="translate(1538.08 2035.166)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-1.008" y="0">2</tspan></text>
+      <line id="Line_127" data-name="Line 127" x2="14.05" transform="translate(1531.23 2043.416)" fill="none" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <rect id="connector2pin-6" data-name="connector2pin" width="14.4" height="0.7" transform="translate(1530.88 2043.066)" fill="none"/>
+      <text id="label2" transform="translate(1546.68 2044.116)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">0</tspan></text>
+      <text id="_3-6" data-name="3" transform="translate(1538.08 2042.366)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-1.008" y="0">3</tspan></text>
+      <line id="Line_128" data-name="Line 128" x2="14.05" transform="translate(1531.23 2050.616)" fill="none" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <rect id="connector3pin" width="14.4" height="0.7" transform="translate(1530.88 2050.266)" fill="none"/>
+      <text id="label3" transform="translate(1546.68 2051.316)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1</tspan></text>
+      <text id="_4" data-name="4" transform="translate(1538.08 2049.566)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-1.008" y="0">4</tspan></text>
+      <line id="Line_129" data-name="Line 129" x2="14.05" transform="translate(1531.23 2057.816)" fill="none" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <rect id="connector4pin" width="14.4" height="0.7" transform="translate(1530.88 2057.466)" fill="none"/>
+      <text id="label4" transform="translate(1546.68 2058.516)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">4</tspan></text>
+      <text id="_5" data-name="5" transform="translate(1538.08 2056.766)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-1.008" y="0">5</tspan></text>
+      <line id="Line_130" data-name="Line 130" x2="14.05" transform="translate(1531.23 2065.016)" fill="none" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <rect id="connector5pin" width="14.4" height="0.7" transform="translate(1530.88 2064.666)" fill="none"/>
+      <text id="label5" transform="translate(1546.68 2065.716)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">6</tspan></text>
+      <text id="_6" data-name="6" transform="translate(1538.08 2063.966)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-1.008" y="0">6</tspan></text>
+      <line id="Line_131" data-name="Line 131" x2="14.05" transform="translate(1531.23 2072.216)" fill="none" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <rect id="connector6pin" width="14.4" height="0.7" transform="translate(1530.88 2071.866)" fill="none"/>
+      <text id="label6" transform="translate(1546.68 2072.916)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">5</tspan></text>
+      <text id="_7" data-name="7" transform="translate(1538.08 2071.166)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-1.008" y="0">7</tspan></text>
+      <line id="Line_132" data-name="Line 132" x2="14.05" transform="translate(1531.23 2079.416)" fill="none" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <rect id="connector7pin" width="14.4" height="0.7" transform="translate(1530.88 2079.066)" fill="none"/>
+      <text id="label7" transform="translate(1546.68 2080.116)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">7</tspan></text>
+      <text id="_8" data-name="8" transform="translate(1538.08 2078.366)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-1.008" y="0">8</tspan></text>
+      <line id="Line_133" data-name="Line 133" x2="9.78" transform="translate(1535.5 2086.616)" fill="none" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <rect id="connector8pin" width="9.4" height="0.7" transform="translate(1535.88 2086.266)" fill="none"/>
+      <text id="label8" transform="translate(1546.68 2087.316)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">10</tspan></text>
+      <text id="_9" data-name="9" transform="translate(1538.08 2085.566)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-1.008" y="0">9</tspan></text>
+      <line id="Line_134" data-name="Line 134" x2="14.4" transform="translate(1573.73 2029.016)" fill="none" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <rect id="connector17pin" width="14.4" height="0.7" transform="translate(1574.08 2028.666)" fill="none"/>
+      <text id="label17" transform="translate(1572.68 2029.716)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-6.247" y="0">BAT</tspan></text>
+      <text id="_18" data-name="18" transform="translate(1581.28 2027.966)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-2.016" y="0">18</tspan></text>
+      <line id="Line_135" data-name="Line 135" x2="14.4" transform="translate(1573.73 2036.216)" fill="none" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <rect id="connector16pin" width="14.4" height="0.7" transform="translate(1574.08 2035.866)" fill="none"/>
+      <text id="label16" transform="translate(1572.68 2036.916)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-7.986" y="0">GND</tspan></text>
+      <text id="_17" data-name="17" transform="translate(1581.28 2035.166)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-2.016" y="0">17</tspan></text>
+      <line id="Line_136" data-name="Line 136" x2="14.4" transform="translate(1573.73 2043.416)" fill="none" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <rect id="connector15pin" width="14.4" height="0.7" transform="translate(1574.08 2043.066)" fill="none"/>
+      <text id="label15" transform="translate(1572.68 2044.116)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-6.116" y="0">VIN</tspan></text>
+      <text id="_16" data-name="16" transform="translate(1581.28 2042.366)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-2.016" y="0">16</tspan></text>
+      <line id="Line_137" data-name="Line 137" x2="14.4" transform="translate(1573.73 2050.616)" fill="none" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <rect id="connector14pin" width="14.4" height="0.7" transform="translate(1574.08 2050.266)" fill="none"/>
+      <text id="label14" transform="translate(1572.68 2051.316)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-4.032" y="0">20</tspan></text>
+      <text id="_15" data-name="15" transform="translate(1581.28 2049.566)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-2.016" y="0">15</tspan></text>
+      <line id="Line_138" data-name="Line 138" x2="14.4" transform="translate(1573.73 2057.816)" fill="none" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <rect id="connector13pin" width="14.4" height="0.7" transform="translate(1574.08 2057.466)" fill="none"/>
+      <text id="label13" transform="translate(1572.68 2058.516)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-4.032" y="0">21</tspan></text>
+      <text id="_14" data-name="14" transform="translate(1581.28 2056.766)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-2.016" y="0">14</tspan></text>
+      <line id="Line_139" data-name="Line 139" x2="14.4" transform="translate(1573.73 2065.016)" fill="none" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <rect id="connector12pin" width="14.4" height="0.7" transform="translate(1574.08 2064.666)" fill="none"/>
+      <text id="label12" transform="translate(1572.68 2065.716)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-2.016" y="0">8</tspan></text>
+      <text id="_13" data-name="13" transform="translate(1581.28 2063.966)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-2.016" y="0">13</tspan></text>
+      <line id="Line_140" data-name="Line 140" x2="14.4" transform="translate(1573.73 2072.216)" fill="none" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <rect id="connector11pin" width="14.4" height="0.7" transform="translate(1574.08 2071.866)" fill="none"/>
+      <text id="label11" transform="translate(1572.68 2072.916)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-2.016" y="0">9</tspan></text>
+      <text id="_12" data-name="12" transform="translate(1581.28 2071.166)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-2.016" y="0">12</tspan></text>
+      <line id="Line_141" data-name="Line 141" x2="14.4" transform="translate(1573.73 2079.416)" fill="none" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <rect id="connector10pin" width="14.4" height="0.7" transform="translate(1574.08 2079.066)" fill="none"/>
+      <text id="label10" transform="translate(1572.68 2080.116)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-2.016" y="0">2</tspan></text>
+      <text id="_11" data-name="11" transform="translate(1581.28 2078.366)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-2.016" y="0">11</tspan></text>
+      <line id="Line_142" data-name="Line 142" x2="14.4" transform="translate(1573.73 2086.616)" fill="none" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <rect id="connector9pin" width="14.4" height="0.7" transform="translate(1574.08 2086.266)" fill="none"/>
+      <text id="label9" transform="translate(1572.68 2087.316)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-2.016" y="0">3</tspan></text>
+      <text id="_10" data-name="10" transform="translate(1581.28 2085.566)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-2.016" y="0">10</tspan></text>
+      <g id="schematic-10" data-name="schematic" transform="translate(1537.729 1981.64)">
+        <line id="Line_143" data-name="Line 143" y2="21.6" transform="translate(11.15 0.576)" stroke="#000" stroke-linecap="round" stroke-width="1.152"/>
+        <line id="Line_144" data-name="Line 144" y2="7.2" transform="translate(14.75 7.776)" stroke="#000" stroke-linecap="round" stroke-width="1.152"/>
+        <line id="Line_145" data-name="Line 145" y2="21.6" transform="translate(18.35 0.576)" stroke="#000" stroke-linecap="round" stroke-width="1.152"/>
+        <line id="Line_146" data-name="Line 146" y2="7.2" transform="translate(21.95 7.776)" stroke="#000" stroke-linecap="round" stroke-width="1.152"/>
+        <line id="Line_147" data-name="Line 147" x2="2.88" transform="translate(7.55 11.376)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="connector0pin-16" data-name="connector0pin" x1="7.2" transform="translate(21.95 11.376)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_1-16" data-name="1" transform="translate(25.55 10.326)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">1</tspan></text>
+        <line id="connector1pin-16" data-name="connector1pin" x2="7.2" transform="translate(0.35 11.376)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_2-16" data-name="2" transform="translate(3.95 10.326)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">2</tspan></text>
+      </g>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="49.5" height="63.9" transform="translate(1718.53 2029.466)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="connector15pin-2" data-name="connector15pin" x2="14.4" transform="translate(1768.13 2036.216)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <text id="_16-2" data-name="16" transform="translate(1775.33 2035.166)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-2.016" y="0">16</tspan></text>
+      <text id="VCC" transform="translate(1766.73 2036.916)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-6.762" y="0">VCC</tspan></text>
+      <line id="connector14pin-2" data-name="connector14pin" x2="14.4" transform="translate(1768.13 2043.416)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <text id="_15-2" data-name="15" transform="translate(1775.33 2042.366)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-2.016" y="0">15</tspan></text>
+      <text id="Q0" transform="translate(1766.73 2044.116)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-4.836" y="0">Q0</tspan></text>
+      <line id="connector13pin-2" data-name="connector13pin" x2="14.4" transform="translate(1768.13 2050.616)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <text id="_14-2" data-name="14" transform="translate(1775.33 2049.566)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-2.016" y="0">14</tspan></text>
+      <text id="DS" transform="translate(1766.73 2051.316)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-4.609" y="0">DS</tspan></text>
+      <line id="connector12pin-2" data-name="connector12pin" x2="14.4" transform="translate(1768.13 2057.816)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <text id="_13-2" data-name="13" transform="translate(1775.33 2056.766)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-2.016" y="0">13</tspan></text>
+      <text id="OE" transform="translate(1766.73 2058.516)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-4.712" y="0">OE</tspan></text>
+      <line id="connector11pin-2" data-name="connector11pin" x2="14.4" transform="translate(1768.13 2065.016)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <text id="_12-2" data-name="12" transform="translate(1775.33 2063.966)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-2.016" y="0">12</tspan></text>
+      <text id="ST_CP" transform="translate(1766.73 2065.716)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-9.909" y="0">ST_CP</tspan></text>
+      <line id="connector10pin-2" data-name="connector10pin" x2="14.4" transform="translate(1768.13 2072.216)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <text id="_11-2" data-name="11" transform="translate(1775.33 2071.166)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-2.016" y="0">11</tspan></text>
+      <text id="SH_CP" transform="translate(1766.73 2072.916)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-10.605" y="0">SH_CP</tspan></text>
+      <line id="connector9pin-2" data-name="connector9pin" x2="14.4" transform="translate(1768.13 2079.416)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <text id="_10-2" data-name="10" transform="translate(1775.33 2078.366)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-2.016" y="0">10</tspan></text>
+      <text id="MR" transform="translate(1766.73 2080.116)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-5.595" y="0">MR</tspan></text>
+      <line id="connector8pin-2" data-name="connector8pin" x2="14.4" transform="translate(1768.13 2086.616)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <text id="_9-2" data-name="9" transform="translate(1775.33 2085.566)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-1.008" y="0">9</tspan></text>
+      <text id="Q7_" data-name="Q7&apos;" transform="translate(1766.73 2087.316)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-5.696" y="0">Q7&apos;</tspan></text>
+      <line id="connector0pin-17" data-name="connector0pin" x2="14.4" transform="translate(1704.03 2036.216)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <text id="_1-17" data-name="1" transform="translate(1711.23 2035.166)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-1.008" y="0">1</tspan></text>
+      <text id="Q1" transform="translate(1719.83 2036.916)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Q1</tspan></text>
+      <line id="connector1pin-17" data-name="connector1pin" x2="14.4" transform="translate(1704.03 2043.416)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <text id="_2-17" data-name="2" transform="translate(1711.23 2042.366)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-1.008" y="0">2</tspan></text>
+      <text id="Q2" transform="translate(1719.83 2044.116)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Q2</tspan></text>
+      <line id="connector2pin-7" data-name="connector2pin" x2="14.4" transform="translate(1704.03 2050.616)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <text id="_3-7" data-name="3" transform="translate(1711.23 2049.566)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-1.008" y="0">3</tspan></text>
+      <text id="Q3" transform="translate(1719.83 2051.316)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Q3</tspan></text>
+      <line id="connector3pin-2" data-name="connector3pin" x2="14.4" transform="translate(1704.03 2057.816)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <text id="_4-2" data-name="4" transform="translate(1711.23 2056.766)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-1.008" y="0">4</tspan></text>
+      <text id="Q4" transform="translate(1719.83 2058.516)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Q4</tspan></text>
+      <line id="connector4pin-2" data-name="connector4pin" x2="14.4" transform="translate(1704.03 2065.016)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <text id="_5-2" data-name="5" transform="translate(1711.23 2063.966)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-1.008" y="0">5</tspan></text>
+      <text id="Q5" transform="translate(1719.83 2065.716)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Q5</tspan></text>
+      <line id="connector5pin-2" data-name="connector5pin" x2="14.4" transform="translate(1704.03 2072.216)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <text id="_6-2" data-name="6" transform="translate(1711.23 2071.166)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-1.008" y="0">6</tspan></text>
+      <text id="Q6" transform="translate(1719.83 2072.916)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Q6</tspan></text>
+      <line id="connector6pin-2" data-name="connector6pin" x2="14.4" transform="translate(1704.03 2079.416)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <text id="_7-2" data-name="7" transform="translate(1711.23 2078.366)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-1.008" y="0">7</tspan></text>
+      <text id="Q7" transform="translate(1719.83 2080.116)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Q7</tspan></text>
+      <line id="connector7pin-2" data-name="connector7pin" x2="14.4" transform="translate(1704.03 2086.616)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+      <text id="_8-2" data-name="8" transform="translate(1711.23 2085.566)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-1.008" y="0">8</tspan></text>
+      <text id="GND" transform="translate(1719.83 2087.316)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">GND</tspan></text>
+      <text id="label-2" data-name="label" transform="translate(1743.73 2059.599)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="-7.526" y="0">74HC595</tspan></text>
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="42.75" height="43.2" transform="translate(1847.68 2036.216)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.9"/>
+      <g id="Group_96" data-name="Group 96" transform="translate(1863.823 2053.788)">
+        <g id="Group_95" data-name="Group 95">
+          <g id="Group_94" data-name="Group 94">
+            <g id="Group_93" data-name="Group 93">
+              <text id="label-3" data-name="label" font-size="2.8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">AHT20</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_100" data-name="Group 100" transform="translate(1862.075 2061.252)">
+        <g id="Group_99" data-name="Group 99">
+          <g id="Group_98" data-name="Group 98">
+            <g id="Group_97" data-name="Group 97">
+              <text id="label_1_" font-size="2.8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Humidity</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_104" data-name="Group 104" transform="translate(1862.679 2050.302)">
+        <g id="Group_103" data-name="Group 103">
+          <g id="Group_102" data-name="Group 102">
+            <g id="Group_101" data-name="Group 101">
+              <text id="label_2_" font-size="2.8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Adafruit</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_108" data-name="Group 108" transform="translate(1860.101 2057.27)">
+        <g id="Group_107" data-name="Group 107">
+          <g id="Group_106" data-name="Group 106">
+            <g id="Group_105" data-name="Group 105">
+              <text id="label_3_" font-size="2.8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Temperature</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="Line_148" data-name="Line 148" x2="14.05" transform="translate(1833.63 2050.616)" fill="none" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <rect id="connector12pin-3" data-name="connector12pin" width="14.4" height="0.7" transform="translate(1833.28 2050.266)" fill="none"/>
+      <g id="Group_112" data-name="Group 112" transform="translate(1849.08 2051.316)">
+        <g id="Group_111" data-name="Group 111">
+          <g id="Group_110" data-name="Group 110">
+            <g id="Group_109" data-name="Group 109">
+              <text id="label12-2" data-name="label12" fill="#8c8c8c" font-size="2.8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SCL</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="Line_149" data-name="Line 149" x2="7.7" transform="translate(1840 2065)" fill="none" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <g id="Group_116" data-name="Group 116" transform="translate(1849.08 2065.252)">
+        <g id="Group_115" data-name="Group 115">
+          <g id="Group_114" data-name="Group 114">
+            <g id="Group_113" data-name="Group 113">
+              <text id="label11-2" data-name="label11" fill="#8c8c8c" font-size="2.8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SDA</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="Line_150" data-name="Line 150" y2="14.05" transform="translate(1869.28 2022.166)" fill="none" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <rect id="connector10pin-3" data-name="connector10pin" width="0.7" height="14.4" transform="translate(1868.93 2021.816)" fill="none"/>
+      <g id="Group_130" data-name="Group 130" transform="translate(1870.68 2037.816)">
+        <g id="Group_129" data-name="Group 129">
+          <g id="Group_128" data-name="Group 128">
+            <g id="Group_127" data-name="Group 127">
+              <g id="Group_126" data-name="Group 126">
+                <g id="Group_125" data-name="Group 125" transform="rotate(-90)">
+                  <g id="Group_124" data-name="Group 124">
+                    <g id="Group_123" data-name="Group 123">
+                      <g id="Group_122" data-name="Group 122">
+                        <g id="Group_121" data-name="Group 121">
+                          <g id="Group_120" data-name="Group 120" transform="translate(-6.068)">
+                            <g id="Group_119" data-name="Group 119">
+                              <g id="Group_118" data-name="Group 118">
+                                <g id="Group_117" data-name="Group 117">
+                                  <text id="label10-2" data-name="label10" fill="#8c8c8c" font-size="2.8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">VCC</tspan></text>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="Line_151" data-name="Line 151" y2="14.05" transform="translate(1869.28 2079.416)" fill="none" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <rect id="connector9pin-3" data-name="connector9pin" width="0.7" height="14.4" transform="translate(1868.93 2079.416)" fill="none"/>
+      <g id="Group_144" data-name="Group 144" transform="translate(1870.68 2077.816)">
+        <g id="Group_143" data-name="Group 143">
+          <g id="Group_142" data-name="Group 142">
+            <g id="Group_141" data-name="Group 141">
+              <g id="Group_140" data-name="Group 140">
+                <g id="Group_139" data-name="Group 139" transform="rotate(-90)">
+                  <g id="Group_138" data-name="Group 138">
+                    <g id="Group_137" data-name="Group 137">
+                      <g id="Group_136" data-name="Group 136">
+                        <g id="Group_135" data-name="Group 135">
+                          <g id="Group_134" data-name="Group 134" transform="translate(-0.001)">
+                            <g id="Group_133" data-name="Group 133">
+                              <g id="Group_132" data-name="Group 132">
+                                <g id="Group_131" data-name="Group 131">
+                                  <text id="label9-2" data-name="label9" fill="#8c8c8c" font-size="2.8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">GND</tspan></text>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <rect id="connector25pin" width="0.7" height="14.4" transform="translate(1868.93 2021.816)" fill="none"/>
+      <rect id="connector16pin-2" data-name="connector16pin" width="0.7" height="14.4" transform="translate(1868.93 2021.816)" fill="none"/>
+      <rect id="connector26pin" width="0.7" height="14.4" transform="translate(1868.93 2079.416)" fill="none"/>
+      <rect id="connector15pin-3" data-name="connector15pin" width="0.7" height="14.4" transform="translate(1868.93 2079.416)" fill="none"/>
+      <rect id="connector27pin" width="14.4" height="0.7" transform="translate(1833.28 2050.266)" fill="none"/>
+      <rect id="connector18pin" width="14.4" height="0.7" transform="translate(1833.28 2050.266)" fill="none"/>
+      <rect id="connector28pin" width="14.4" height="0.7" transform="translate(1830.88 2062.616)" fill="none"/>
+      <rect id="connector17pin-2" data-name="connector17pin" width="14.4" height="0.7" transform="translate(1830.88 2061.552)" fill="none"/>
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="216" height="115.2" transform="translate(1530.802 2216.346)" fill="none"/>
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="216" height="115.2" transform="translate(1530.802 2216.346)" fill="none"/>
+      <text id="label_7_" transform="translate(1627.486 2235.079)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">7 SEGMENT</tspan></text>
+      <text id="label_8_" transform="translate(1632.209 2239.612)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">4DIGIT</tspan></text>
+      <line id="Line_152" data-name="Line 152" y2="115.2" transform="translate(1746.801 2216.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_153" data-name="Line 153" x1="215.999" transform="translate(1530.802 2331.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_154" data-name="Line 154" y1="115.2" transform="translate(1530.802 2216.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_155" data-name="Line 155" x2="3.6" y2="3.6" transform="translate(1574.002 2248.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_156" data-name="Line 156" x1="3.6" y2="3.6" transform="translate(1574.002 2252.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_157" data-name="Line 157" x1="21.6" transform="translate(1552.402 2255.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_158" data-name="Line 158" x1="3.6" y1="3.6" transform="translate(1548.802 2252.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_159" data-name="Line 159" y1="3.6" x2="3.6" transform="translate(1548.802 2248.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_160" data-name="Line 160" x2="21.6" transform="translate(1552.402 2248.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_161" data-name="Line 161" x2="3.6" y2="3.6" transform="translate(1578.322 2255.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_162" data-name="Line 162" x1="3.6" y2="3.6" transform="translate(1574.722 2255.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_163" data-name="Line 163" x1="3.6" y2="21.6" transform="translate(1571.122 2259.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_164" data-name="Line 164" x2="3.6" y2="3.6" transform="translate(1571.122 2281.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_165" data-name="Line 165" y1="3.6" x2="3.6" transform="translate(1574.722 2281.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_166" data-name="Line 166" y1="21.6" x2="3.6" transform="translate(1578.322 2259.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_167" data-name="Line 167" y1="3.6" x2="3.6" transform="translate(1545.202 2284.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_168" data-name="Line 168" x2="3.6" y2="3.6" transform="translate(1545.202 2288.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_169" data-name="Line 169" x2="21.6" transform="translate(1548.802 2291.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_170" data-name="Line 170" y1="3.6" x2="3.6" transform="translate(1570.402 2288.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_171" data-name="Line 171" x1="3.6" y1="3.6" transform="translate(1570.402 2284.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_172" data-name="Line 172" x1="21.6" transform="translate(1548.802 2284.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_173" data-name="Line 173" y1="3.6" x2="3.6" transform="translate(1541.602 2320.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_174" data-name="Line 174" x2="3.6" y2="3.6" transform="translate(1541.602 2324.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_175" data-name="Line 175" x2="21.6" transform="translate(1545.202 2327.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_176" data-name="Line 176" y1="3.6" x2="3.6" transform="translate(1566.802 2324.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_177" data-name="Line 177" x1="3.6" y1="3.6" transform="translate(1566.802 2320.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_178" data-name="Line 178" x1="21.6" transform="translate(1545.202 2320.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_179" data-name="Line 179" x2="3.6" y2="3.6" transform="translate(1548.082 2255.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_180" data-name="Line 180" x1="3.6" y2="3.6" transform="translate(1544.482 2255.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_181" data-name="Line 181" x1="3.6" y2="21.6" transform="translate(1540.882 2259.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_182" data-name="Line 182" x2="3.6" y2="3.6" transform="translate(1540.882 2281.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_183" data-name="Line 183" y1="3.6" x2="3.6" transform="translate(1544.482 2281.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_184" data-name="Line 184" y1="21.6" x2="3.6" transform="translate(1548.082 2259.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_185" data-name="Line 185" x2="3.6" y2="3.6" transform="translate(1544.482 2291.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_186" data-name="Line 186" x1="3.6" y2="3.6" transform="translate(1540.882 2291.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_187" data-name="Line 187" x1="3.6" y2="21.6" transform="translate(1537.282 2295.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_188" data-name="Line 188" x2="3.6" y2="3.6" transform="translate(1537.282 2317.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_189" data-name="Line 189" y1="3.6" x2="3.6" transform="translate(1540.882 2317.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_190" data-name="Line 190" y1="21.6" x2="3.6" transform="translate(1544.482 2295.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_191" data-name="Line 191" x2="3.6" y2="3.6" transform="translate(1574.722 2291.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_192" data-name="Line 192" x1="3.6" y2="3.6" transform="translate(1571.122 2291.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_193" data-name="Line 193" x1="3.6" y2="21.6" transform="translate(1567.522 2295.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_194" data-name="Line 194" x2="3.6" y2="3.6" transform="translate(1567.522 2317.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_195" data-name="Line 195" y1="3.6" x2="3.6" transform="translate(1571.122 2317.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_196" data-name="Line 196" y1="21.6" x2="3.6" transform="translate(1574.722 2295.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_197" data-name="Line 197" x2="3.6" y2="3.6" transform="translate(1624.402 2248.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_198" data-name="Line 198" x1="3.6" y2="3.6" transform="translate(1624.402 2252.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_199" data-name="Line 199" x1="21.6" transform="translate(1602.802 2255.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_200" data-name="Line 200" x1="3.6" y1="3.6" transform="translate(1599.202 2252.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_201" data-name="Line 201" y1="3.6" x2="3.6" transform="translate(1599.202 2248.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_202" data-name="Line 202" x2="21.6" transform="translate(1602.802 2248.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_203" data-name="Line 203" x2="3.6" y2="3.6" transform="translate(1628.722 2255.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_204" data-name="Line 204" x1="3.6" y2="3.6" transform="translate(1625.122 2255.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_205" data-name="Line 205" x1="3.6" y2="21.6" transform="translate(1621.522 2259.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_206" data-name="Line 206" x2="3.6" y2="3.6" transform="translate(1621.522 2281.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_207" data-name="Line 207" y1="3.6" x2="3.6" transform="translate(1625.122 2281.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_208" data-name="Line 208" y1="21.6" x2="3.6" transform="translate(1628.722 2259.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_209" data-name="Line 209" y1="3.6" x2="3.6" transform="translate(1595.602 2284.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_210" data-name="Line 210" x2="3.6" y2="3.6" transform="translate(1595.602 2288.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_211" data-name="Line 211" x2="21.6" transform="translate(1599.202 2291.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_212" data-name="Line 212" y1="3.6" x2="3.6" transform="translate(1620.802 2288.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_213" data-name="Line 213" x1="3.6" y1="3.6" transform="translate(1620.802 2284.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_214" data-name="Line 214" x1="21.6" transform="translate(1599.202 2284.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_215" data-name="Line 215" y1="3.6" x2="3.6" transform="translate(1592.002 2320.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_216" data-name="Line 216" x2="3.6" y2="3.6" transform="translate(1592.002 2324.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_217" data-name="Line 217" x2="21.6" transform="translate(1595.602 2327.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_218" data-name="Line 218" y1="3.6" x2="3.6" transform="translate(1617.202 2324.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_219" data-name="Line 219" x1="3.6" y1="3.6" transform="translate(1617.202 2320.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_220" data-name="Line 220" x1="21.6" transform="translate(1595.602 2320.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_221" data-name="Line 221" x2="3.6" y2="3.6" transform="translate(1598.482 2255.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_222" data-name="Line 222" x1="3.6" y2="3.6" transform="translate(1594.882 2255.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_223" data-name="Line 223" x1="3.6" y2="21.6" transform="translate(1591.282 2259.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_224" data-name="Line 224" x2="3.6" y2="3.6" transform="translate(1591.282 2281.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_225" data-name="Line 225" y1="3.6" x2="3.6" transform="translate(1594.882 2281.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_226" data-name="Line 226" y1="21.6" x2="3.6" transform="translate(1598.482 2259.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_227" data-name="Line 227" x2="3.6" y2="3.6" transform="translate(1594.882 2291.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_228" data-name="Line 228" x1="3.6" y2="3.6" transform="translate(1591.282 2291.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_229" data-name="Line 229" x1="3.6" y2="21.6" transform="translate(1587.682 2295.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_230" data-name="Line 230" x2="3.6" y2="3.6" transform="translate(1587.682 2317.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_231" data-name="Line 231" y1="3.6" x2="3.6" transform="translate(1591.282 2317.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_232" data-name="Line 232" y1="21.6" x2="3.6" transform="translate(1594.882 2295.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_233" data-name="Line 233" x2="3.6" y2="3.6" transform="translate(1625.122 2291.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_234" data-name="Line 234" x1="3.6" y2="3.6" transform="translate(1621.522 2291.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_235" data-name="Line 235" x1="3.6" y2="21.6" transform="translate(1617.922 2295.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_236" data-name="Line 236" x2="3.6" y2="3.6" transform="translate(1617.922 2317.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_237" data-name="Line 237" y1="3.6" x2="3.6" transform="translate(1621.522 2317.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_238" data-name="Line 238" y1="21.6" x2="3.6" transform="translate(1625.122 2295.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_239" data-name="Line 239" x2="3.599" y2="3.6" transform="translate(1682.003 2248.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_240" data-name="Line 240" x1="3.599" y2="3.6" transform="translate(1682.003 2252.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_241" data-name="Line 241" x1="21.601" transform="translate(1660.402 2255.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_242" data-name="Line 242" x1="3.601" y1="3.6" transform="translate(1656.801 2252.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_243" data-name="Line 243" y1="3.6" x2="3.601" transform="translate(1656.801 2248.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_244" data-name="Line 244" x2="21.601" transform="translate(1660.402 2248.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_245" data-name="Line 245" x2="3.6" y2="3.6" transform="translate(1686.322 2255.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_246" data-name="Line 246" x1="3.601" y2="3.6" transform="translate(1682.721 2255.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_247" data-name="Line 247" x1="3.599" y2="21.6" transform="translate(1679.122 2259.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_248" data-name="Line 248" x2="3.599" y2="3.6" transform="translate(1679.122 2281.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_249" data-name="Line 249" y1="3.6" x2="3.601" transform="translate(1682.721 2281.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_250" data-name="Line 250" y1="21.6" x2="3.6" transform="translate(1686.322 2259.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_251" data-name="Line 251" y1="3.6" x2="3.599" transform="translate(1653.202 2284.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_252" data-name="Line 252" x2="3.599" y2="3.6" transform="translate(1653.202 2288.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_253" data-name="Line 253" x2="21.601" transform="translate(1656.801 2291.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_254" data-name="Line 254" y1="3.6" x2="3.601" transform="translate(1678.402 2288.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_255" data-name="Line 255" x1="3.601" y1="3.6" transform="translate(1678.402 2284.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_256" data-name="Line 256" x1="21.601" transform="translate(1656.801 2284.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_257" data-name="Line 257" y1="3.6" x2="3.6" transform="translate(1649.602 2320.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_258" data-name="Line 258" x2="3.6" y2="3.6" transform="translate(1649.602 2324.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_259" data-name="Line 259" x2="21.599" transform="translate(1653.202 2327.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_260" data-name="Line 260" y1="3.6" x2="3.601" transform="translate(1674.801 2324.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_261" data-name="Line 261" x1="3.601" y1="3.6" transform="translate(1674.801 2320.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_262" data-name="Line 262" x1="21.599" transform="translate(1653.202 2320.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_263" data-name="Line 263" x2="3.599" y2="3.6" transform="translate(1656.083 2255.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_264" data-name="Line 264" x1="3.601" y2="3.6" transform="translate(1652.482 2255.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_265" data-name="Line 265" x1="3.601" y2="21.6" transform="translate(1648.881 2259.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_266" data-name="Line 266" x2="3.601" y2="3.6" transform="translate(1648.881 2281.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_267" data-name="Line 267" y1="3.6" x2="3.601" transform="translate(1652.482 2281.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_268" data-name="Line 268" y1="21.6" x2="3.599" transform="translate(1656.083 2259.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_269" data-name="Line 269" x2="3.601" y2="3.6" transform="translate(1652.482 2291.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_270" data-name="Line 270" x1="3.601" y2="3.6" transform="translate(1648.881 2291.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_271" data-name="Line 271" x1="3.599" y2="21.6" transform="translate(1645.282 2295.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_272" data-name="Line 272" x2="3.599" y2="3.6" transform="translate(1645.282 2317.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_273" data-name="Line 273" y1="3.6" x2="3.601" transform="translate(1648.881 2317.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_274" data-name="Line 274" y1="21.6" x2="3.601" transform="translate(1652.482 2295.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_275" data-name="Line 275" x2="3.601" y2="3.6" transform="translate(1682.721 2291.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_276" data-name="Line 276" x1="3.599" y2="3.6" transform="translate(1679.122 2291.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_277" data-name="Line 277" x1="3.6" y2="21.6" transform="translate(1675.522 2295.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_278" data-name="Line 278" x2="3.6" y2="3.6" transform="translate(1675.522 2317.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_279" data-name="Line 279" y1="3.6" x2="3.599" transform="translate(1679.122 2317.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_280" data-name="Line 280" y1="21.6" x2="3.601" transform="translate(1682.721 2295.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_281" data-name="Line 281" x2="3.601" y2="3.6" transform="translate(1732.402 2248.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_282" data-name="Line 282" x1="3.601" y2="3.6" transform="translate(1732.402 2252.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_283" data-name="Line 283" x1="21.601" transform="translate(1710.801 2255.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_284" data-name="Line 284" x1="3.599" y1="3.6" transform="translate(1707.202 2252.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_285" data-name="Line 285" y1="3.6" x2="3.599" transform="translate(1707.202 2248.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_286" data-name="Line 286" x2="21.601" transform="translate(1710.801 2248.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_287" data-name="Line 287" x2="3.601" y2="3.6" transform="translate(1736.721 2255.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_288" data-name="Line 288" x1="3.599" y2="3.6" transform="translate(1733.122 2255.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_289" data-name="Line 289" x1="3.6" y2="21.6" transform="translate(1729.522 2259.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_290" data-name="Line 290" x2="3.6" y2="3.6" transform="translate(1729.522 2281.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_291" data-name="Line 291" y1="3.6" x2="3.599" transform="translate(1733.122 2281.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_292" data-name="Line 292" y1="21.6" x2="3.601" transform="translate(1736.721 2259.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_293" data-name="Line 293" y1="3.6" x2="3.6" transform="translate(1703.602 2284.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_294" data-name="Line 294" x2="3.6" y2="3.6" transform="translate(1703.602 2288.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_295" data-name="Line 295" x2="21.599" transform="translate(1707.202 2291.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_296" data-name="Line 296" y1="3.6" x2="3.601" transform="translate(1728.801 2288.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_297" data-name="Line 297" x1="3.601" y1="3.6" transform="translate(1728.801 2284.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_298" data-name="Line 298" x1="21.599" transform="translate(1707.202 2284.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_299" data-name="Line 299" y1="3.6" x2="3.599" transform="translate(1700.003 2320.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_300" data-name="Line 300" x2="3.599" y2="3.6" transform="translate(1700.003 2324.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_301" data-name="Line 301" x2="21.6" transform="translate(1703.602 2327.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_302" data-name="Line 302" y1="3.6" x2="3.599" transform="translate(1725.202 2324.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_303" data-name="Line 303" x1="3.599" y1="3.6" transform="translate(1725.202 2320.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_304" data-name="Line 304" x1="21.6" transform="translate(1703.602 2320.746)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_305" data-name="Line 305" x2="3.601" y2="3.6" transform="translate(1706.482 2255.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_306" data-name="Line 306" x1="3.601" y2="3.6" transform="translate(1702.881 2255.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_307" data-name="Line 307" x1="3.599" y2="21.6" transform="translate(1699.282 2259.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_308" data-name="Line 308" x2="3.599" y2="3.6" transform="translate(1699.282 2281.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_309" data-name="Line 309" y1="3.6" x2="3.601" transform="translate(1702.881 2281.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_310" data-name="Line 310" y1="21.6" x2="3.601" transform="translate(1706.482 2259.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_311" data-name="Line 311" x2="3.601" y2="3.6" transform="translate(1702.881 2291.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_312" data-name="Line 312" x1="3.599" y2="3.6" transform="translate(1699.282 2291.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_313" data-name="Line 313" x1="3.6" y2="21.6" transform="translate(1695.682 2295.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_314" data-name="Line 314" x2="3.6" y2="3.6" transform="translate(1695.682 2317.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_315" data-name="Line 315" y1="3.6" x2="3.599" transform="translate(1699.282 2317.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_316" data-name="Line 316" y1="21.6" x2="3.601" transform="translate(1702.881 2295.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_317" data-name="Line 317" x2="3.599" y2="3.6" transform="translate(1733.122 2291.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_318" data-name="Line 318" x1="3.6" y2="3.6" transform="translate(1729.522 2291.946)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_319" data-name="Line 319" x1="3.6" y2="21.6" transform="translate(1725.922 2295.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_320" data-name="Line 320" x2="3.6" y2="3.6" transform="translate(1725.922 2317.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_321" data-name="Line 321" y1="3.6" x2="3.6" transform="translate(1729.522 2317.146)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_322" data-name="Line 322" y1="21.6" x2="3.599" transform="translate(1733.122 2295.546)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <line id="Line_323" data-name="Line 323" x1="215.999" transform="translate(1530.802 2216.346)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.9"/>
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="3.6" cy="3.6" r="3.6" transform="translate(1577.602 2320.746)" fill="none" stroke="#000" stroke-width="0.9"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="3.6" cy="3.6" r="3.6" transform="translate(1628.002 2320.746)" fill="none" stroke="#000" stroke-width="0.9"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="3.6" cy="3.6" r="3.6" transform="translate(1685.602 2320.746)" fill="none" stroke="#000" stroke-width="0.9"/>
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="3.6" cy="3.6" r="3.6" transform="translate(1736.002 2320.746)" fill="none" stroke="#000" stroke-width="0.9"/>
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="3.6" cy="3.6" r="3.6" transform="translate(1633.042 2299.146)" fill="none" stroke="#000" stroke-width="0.9"/>
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="3.6" cy="3.6" r="3.6" transform="translate(1636.642 2270.346)" fill="none" stroke="#000" stroke-width="0.9"/>
+      <text id="A" transform="translate(1562.482 2253.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A</tspan></text>
+      <text id="B" transform="translate(1575.442 2271.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">B</tspan></text>
+      <text id="C" transform="translate(1571.842 2307.786)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">C</tspan></text>
+      <text id="D" transform="translate(1555.281 2325.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">D</tspan></text>
+      <text id="E" transform="translate(1541.602 2307.786)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">E</tspan></text>
+      <text id="F" transform="translate(1545.202 2271.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">F</tspan></text>
+      <text id="G" transform="translate(1558.881 2289.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">G</tspan></text>
+      <text id="DP" transform="translate(1579.041 2325.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">DP</tspan></text>
+      <text id="A-2" data-name="A" transform="translate(1612.881 2253.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A</tspan></text>
+      <text id="B-2" data-name="B" transform="translate(1625.842 2271.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">B</tspan></text>
+      <text id="C-2" data-name="C" transform="translate(1622.243 2307.786)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">C</tspan></text>
+      <text id="D-2" data-name="D" transform="translate(1605.682 2325.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">D</tspan></text>
+      <text id="E-2" data-name="E" transform="translate(1592.003 2307.786)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">E</tspan></text>
+      <text id="F-2" data-name="F" transform="translate(1595.601 2271.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">F</tspan></text>
+      <text id="G-2" data-name="G" transform="translate(1609.281 2289.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">G</tspan></text>
+      <text id="DP-2" data-name="DP" transform="translate(1629.441 2325.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">DP</tspan></text>
+      <text id="A-3" data-name="A" transform="translate(1670.48 2253.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A</tspan></text>
+      <text id="B-3" data-name="B" transform="translate(1683.441 2271.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">B</tspan></text>
+      <text id="C-3" data-name="C" transform="translate(1679.841 2307.786)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">C</tspan></text>
+      <text id="D-3" data-name="D" transform="translate(1663.281 2325.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">D</tspan></text>
+      <text id="E-3" data-name="E" transform="translate(1649.601 2307.786)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">E</tspan></text>
+      <text id="F-3" data-name="F" transform="translate(1653.201 2271.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">F</tspan></text>
+      <text id="G-3" data-name="G" transform="translate(1666.882 2289.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">G</tspan></text>
+      <text id="DP-3" data-name="DP" transform="translate(1687.041 2325.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">DP</tspan></text>
+      <text id="A-4" data-name="A" transform="translate(1720.881 2253.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A</tspan></text>
+      <text id="B-4" data-name="B" transform="translate(1733.841 2271.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">B</tspan></text>
+      <text id="C-4" data-name="C" transform="translate(1730.242 2307.786)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">C</tspan></text>
+      <text id="D-4" data-name="D" transform="translate(1713.681 2325.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">D</tspan></text>
+      <text id="E-4" data-name="E" transform="translate(1700.003 2307.786)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">E</tspan></text>
+      <text id="F-4" data-name="F" transform="translate(1703.602 2271.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">F</tspan></text>
+      <text id="G-4" data-name="G" transform="translate(1717.281 2289.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">G</tspan></text>
+      <text id="DP-4" data-name="DP" transform="translate(1737.441 2325.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">DP</tspan></text>
+      <text id="COL" transform="translate(1634.481 2289.785)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">COL</tspan></text>
+      <line id="connector1pin-18" data-name="connector1pin" y2="14.4" transform="translate(1559.602 2201.946)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.75"/>
+      <g id="Group_187" data-name="Group 187" transform="translate(1540.359 2204.26)">
+        <g id="Group_186" data-name="Group 186" transform="rotate(-90)">
+          <g id="Group_185" data-name="Group 185">
+            <g id="Group_184" data-name="Group 184" transform="translate(-5.573 18.192)">
+              <text id="_2-18" data-name="2" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_192" data-name="Group 192" transform="translate(1540.976 2207.54)">
+        <g id="Group_191" data-name="Group 191" transform="rotate(-90)">
+          <g id="Group_190" data-name="Group 190">
+            <g id="Group_189" data-name="Group 189" transform="translate(-18.759 19.326)">
+              <text id="DIG2" fill="#787878" font-size="3.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">DIG2</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="connector5pin-3" data-name="connector5pin" y2="14.4" transform="translate(1566.802 2201.946)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.75"/>
+      <g id="Group_197" data-name="Group 197" transform="translate(1542.899 2204.26)">
+        <g id="Group_196" data-name="Group 196" transform="rotate(-90)">
+          <g id="Group_195" data-name="Group 195">
+            <g id="Group_194" data-name="Group 194" transform="translate(-5.573 22.854)">
+              <text id="_6-3" data-name="6" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">6</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_202" data-name="Group 202" transform="translate(1543.516 2207.54)">
+        <g id="Group_201" data-name="Group 201" transform="rotate(-90)">
+          <g id="Group_200" data-name="Group 200">
+            <g id="Group_199" data-name="Group 199" transform="translate(-18.759 23.986)">
+              <text id="DIG3" fill="#787878" font-size="3.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">DIG3</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="connector7pin-3" data-name="connector7pin" y2="14.4" transform="translate(1574.002 2201.946)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.75"/>
+      <g id="Group_207" data-name="Group 207" transform="translate(1545.439 2204.26)">
+        <g id="Group_206" data-name="Group 206" transform="rotate(-90)">
+          <g id="Group_205" data-name="Group 205">
+            <g id="Group_204" data-name="Group 204" transform="translate(-5.573 27.512)">
+              <text id="_8-3" data-name="8" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">8</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_212" data-name="Group 212" transform="translate(1546.056 2207.54)">
+        <g id="Group_211" data-name="Group 211" transform="rotate(-90)">
+          <g id="Group_210" data-name="Group 210">
+            <g id="Group_209" data-name="Group 209" transform="translate(-18.759 28.646)">
+              <text id="DIG4" fill="#787878" font-size="3.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">DIG4</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="connector3pin-3" data-name="connector3pin" y2="14.4" transform="translate(1602.802 2201.946)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.75"/>
+      <g id="Group_217" data-name="Group 217" transform="translate(1555.599 2204.26)">
+        <g id="Group_216" data-name="Group 216" transform="rotate(-90)">
+          <g id="Group_215" data-name="Group 215">
+            <g id="Group_214" data-name="Group 214" transform="translate(-5.573 46.154)">
+              <text id="_4-3" data-name="4" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">4</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_222" data-name="Group 222" transform="translate(1556.216 2207.54)">
+        <g id="Group_221" data-name="Group 221" transform="rotate(-90)">
+          <g id="Group_220" data-name="Group 220">
+            <g id="Group_219" data-name="Group 219" transform="translate(-20.517 47.287)">
+              <text id="COL-A" fill="#787878" font-size="3.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">COL-A</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path id="connector9pin-4" data-name="connector9pin" d="M0,14.4" transform="translate(1718.003 2201.946)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.75"/>
+      <line id="connector13pin-3" data-name="connector13pin" y2="14.4" transform="translate(1638.802 2201.946)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.75"/>
+      <g id="Group_237" data-name="Group 237" transform="translate(1568.299 2204.26)">
+        <g id="Group_236" data-name="Group 236" transform="rotate(-90)">
+          <g id="Group_235" data-name="Group 235">
+            <g id="Group_234" data-name="Group 234" transform="translate(-6.262 69.453)">
+              <text id="_14-3" data-name="14" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">14</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_242" data-name="Group 242" transform="translate(1568.916 2207.54)">
+        <g id="Group_241" data-name="Group 241" transform="rotate(-90)">
+          <g id="Group_240" data-name="Group 240">
+            <g id="Group_239" data-name="Group 239" transform="translate(-13.033 70.587)">
+              <text id="A-5" data-name="A" fill="#787878" font-size="3.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="connector15pin-4" data-name="connector15pin" y2="14.4" transform="translate(1646.003 2201.946)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.75"/>
+      <g id="Group_247" data-name="Group 247" transform="translate(1570.839 2204.26)">
+        <g id="Group_246" data-name="Group 246" transform="rotate(-90)">
+          <g id="Group_245" data-name="Group 245">
+            <g id="Group_244" data-name="Group 244" transform="translate(-6.262 74.113)">
+              <text id="_16-3" data-name="16" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">16</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_252" data-name="Group 252" transform="translate(1571.456 2207.54)">
+        <g id="Group_251" data-name="Group 251" transform="rotate(-90)">
+          <g id="Group_250" data-name="Group 250">
+            <g id="Group_249" data-name="Group 249" transform="translate(-13.079 75.245)">
+              <text id="B-5" data-name="B" fill="#787878" font-size="3.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">B</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="connector12pin-4" data-name="connector12pin" y2="14.4" transform="translate(1653.202 2201.946)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.75"/>
+      <g id="Group_257" data-name="Group 257" transform="translate(1573.379 2204.26)">
+        <g id="Group_256" data-name="Group 256" transform="rotate(-90)">
+          <g id="Group_255" data-name="Group 255">
+            <g id="Group_254" data-name="Group 254" transform="translate(-6.262 78.773)">
+              <text id="_13-3" data-name="13" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">13</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_262" data-name="Group 262" transform="translate(1573.996 2207.54)">
+        <g id="Group_261" data-name="Group 261" transform="rotate(-90)">
+          <g id="Group_260" data-name="Group 260">
+            <g id="Group_259" data-name="Group 259" transform="translate(-13.017 79.905)">
+              <text id="C-5" data-name="C" fill="#787878" font-size="3.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">C</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="connector2pin-8" data-name="connector2pin" y2="14.4" transform="translate(1660.402 2201.946)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.75"/>
+      <g id="Group_267" data-name="Group 267" transform="translate(1575.919 2204.26)">
+        <g id="Group_266" data-name="Group 266" transform="rotate(-90)">
+          <g id="Group_265" data-name="Group 265">
+            <g id="Group_264" data-name="Group 264" transform="translate(-5.573 83.434)">
+              <text id="_3-8" data-name="3" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">3</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_272" data-name="Group 272" transform="translate(1576.536 2207.54)">
+        <g id="Group_271" data-name="Group 271" transform="rotate(-90)">
+          <g id="Group_270" data-name="Group 270">
+            <g id="Group_269" data-name="Group 269" transform="translate(-13.3 84.565)">
+              <text id="D-5" data-name="D" fill="#787878" font-size="3.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">D</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="connector4pin-3" data-name="connector4pin" y2="14.4" transform="translate(1667.602 2201.946)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.75"/>
+      <g id="Group_277" data-name="Group 277" transform="translate(1578.459 2204.26)">
+        <g id="Group_276" data-name="Group 276" transform="rotate(-90)">
+          <g id="Group_275" data-name="Group 275">
+            <g id="Group_274" data-name="Group 274" transform="translate(-5.573 88.092)">
+              <text id="_5-3" data-name="5" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">5</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_282" data-name="Group 282" transform="translate(1579.076 2207.54)">
+        <g id="Group_281" data-name="Group 281" transform="rotate(-90)">
+          <g id="Group_280" data-name="Group 280">
+            <g id="Group_279" data-name="Group 279" transform="translate(-12.753 89.225)">
+              <text id="E-5" data-name="E" fill="#787878" font-size="3.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">E</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="connector10pin-4" data-name="connector10pin" y2="14.4" transform="translate(1674.801 2201.946)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.75"/>
+      <g id="Group_287" data-name="Group 287" transform="translate(1580.999 2204.26)">
+        <g id="Group_286" data-name="Group 286" transform="rotate(-90)">
+          <g id="Group_285" data-name="Group 285">
+            <g id="Group_284" data-name="Group 284" transform="translate(-6.262 92.753)">
+              <text id="_11-3" data-name="11" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">11</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_292" data-name="Group 292" transform="translate(1581.616 2207.54)">
+        <g id="Group_291" data-name="Group 291" transform="rotate(-90)">
+          <g id="Group_290" data-name="Group 290">
+            <g id="Group_289" data-name="Group 289" transform="translate(-12.622 93.886)">
+              <text id="F-5" data-name="F" fill="#787878" font-size="3.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">F</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="connector14pin-3" data-name="connector14pin" y2="14.4" transform="translate(1682.003 2201.946)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.75"/>
+      <g id="Group_297" data-name="Group 297" transform="translate(1583.539 2204.26)">
+        <g id="Group_296" data-name="Group 296" transform="rotate(-90)">
+          <g id="Group_295" data-name="Group 295">
+            <g id="Group_294" data-name="Group 294" transform="translate(-6.262 97.412)">
+              <text id="_15-3" data-name="15" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">15</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_302" data-name="Group 302" transform="translate(1584.156 2207.54)">
+        <g id="Group_301" data-name="Group 301" transform="rotate(-90)">
+          <g id="Group_300" data-name="Group 300">
+            <g id="Group_299" data-name="Group 299" transform="translate(-13.32 98.546)">
+              <text id="G-5" data-name="G" fill="#787878" font-size="3.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">G</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="connector6pin-3" data-name="connector6pin" y2="14.4" transform="translate(1689.202 2201.946)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.75"/>
+      <g id="Group_307" data-name="Group 307" transform="translate(1586.079 2204.26)">
+        <g id="Group_306" data-name="Group 306" transform="rotate(-90)">
+          <g id="Group_305" data-name="Group 305">
+            <g id="Group_304" data-name="Group 304" transform="translate(-5.573 102.073)">
+              <text id="_7-3" data-name="7" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">7</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_312" data-name="Group 312" transform="translate(1586.696 2207.54)">
+        <g id="Group_311" data-name="Group 311" transform="rotate(-90)">
+          <g id="Group_310" data-name="Group 310">
+            <g id="Group_309" data-name="Group 309" transform="translate(-15.316 103.204)">
+              <text id="DP-5" data-name="DP" fill="#787878" font-size="3.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">DP</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="connector11pin-3" data-name="connector11pin" y2="14.4" transform="translate(1610.002 2201.946)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.75"/>
+      <g id="Group_317" data-name="Group 317" transform="translate(1558.139 2204.26)">
+        <g id="Group_316" data-name="Group 316" transform="rotate(-90)">
+          <g id="Group_315" data-name="Group 315">
+            <g id="Group_314" data-name="Group 314" transform="translate(-6.262 50.812)">
+              <text id="_12-3" data-name="12" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">12</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_322" data-name="Group 322" transform="translate(1558.756 2207.54)">
+        <g id="Group_321" data-name="Group 321" transform="rotate(-90)">
+          <g id="Group_320" data-name="Group 320">
+            <g id="Group_319" data-name="Group 319" transform="translate(-20.499 51.945)">
+              <text id="COL-C" fill="#787878" font-size="3.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">COL-C</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="connector0pin-18" data-name="connector0pin" y2="14.4" transform="translate(1552.402 2201.946)" fill="none" stroke="#787878" stroke-linecap="round" stroke-width="0.75"/>
+      <g id="Group_337" data-name="Group 337" transform="translate(1537.819 2204.26)">
+        <g id="Group_336" data-name="Group 336" transform="rotate(-90)">
+          <g id="Group_335" data-name="Group 335">
+            <g id="Group_334" data-name="Group 334" transform="translate(-5.573 13.533)">
+              <text id="_1-18" data-name="1" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_342" data-name="Group 342" transform="translate(1538.436 2207.54)">
+        <g id="Group_341" data-name="Group 341" transform="rotate(-90)">
+          <g id="Group_340" data-name="Group 340">
+            <g id="Group_339" data-name="Group 339" transform="translate(-18.759 14.665)">
+              <text id="DIG1" fill="#787878" font-size="3.5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">DIG1</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="schematic-11" data-name="schematic" transform="translate(1505.176 2000.566) rotate(-90)">
+        <line id="Line_324" data-name="Line 324" x2="1.08" y2="2.88" transform="translate(7.55 -3.096)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_325" data-name="Line 325" y1="5.76" x2="1.8" transform="translate(8.63 -5.976)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_326" data-name="Line 326" x2="1.8" y2="5.76" transform="translate(10.43 -5.976)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_327" data-name="Line 327" y1="5.76" x2="1.8" transform="translate(12.23 -5.976)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_328" data-name="Line 328" x2="1.8" y2="5.76" transform="translate(14.03 -5.976)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_329" data-name="Line 329" y1="5.76" x2="1.8" transform="translate(15.83 -5.976)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_330" data-name="Line 330" x2="1.8" y2="5.76" transform="translate(17.63 -5.976)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_331" data-name="Line 331" y1="5.76" x2="1.8" transform="translate(19.43 -5.976)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_332" data-name="Line 332" x2="0.72" y2="2.88" transform="translate(21.23 -5.976)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="connector1pin-19" data-name="connector1pin" x1="7.2" transform="translate(21.95 -3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_2-19" data-name="2" transform="matrix(1, 0, 0, -1, 25.55, -2.046)" fill="#8c8c8c" font-size="3" font-family="SegoeUI, Segoe UI"><tspan x="-0.809" y="0">2</tspan></text>
+        <line id="connector0pin-19" data-name="connector0pin" x2="7.2" transform="translate(0.35 -3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_1-19" data-name="1" transform="matrix(1, 0, 0, -1, 3.95, -2.046)" fill="#8c8c8c" font-size="3" font-family="SegoeUI, Segoe UI"><tspan x="-0.809" y="0">1</tspan></text>
+      </g>
+      <g id="schematic-12" data-name="schematic" transform="translate(1613.176 2143.865) rotate(90)">
+        <line id="Line_333" data-name="Line 333" y1="2.88" x2="1.08" transform="translate(7.55 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_334" data-name="Line 334" x2="1.8" y2="5.76" transform="translate(8.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_335" data-name="Line 335" y1="5.76" x2="1.8" transform="translate(10.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_336" data-name="Line 336" x2="1.8" y2="5.76" transform="translate(12.23 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_337" data-name="Line 337" y1="5.76" x2="1.8" transform="translate(14.03 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_338" data-name="Line 338" x2="1.8" y2="5.76" transform="translate(15.83 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_339" data-name="Line 339" y1="5.76" x2="1.8" transform="translate(17.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_340" data-name="Line 340" x2="1.8" y2="5.76" transform="translate(19.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_341" data-name="Line 341" y1="2.88" x2="0.72" transform="translate(21.23 3.096)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="connector1pin-20" data-name="connector1pin" x1="7.2" transform="translate(21.95 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_2-20" data-name="2" transform="translate(25.55 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">2</tspan></text>
+        <line id="connector0pin-20" data-name="connector0pin" x2="7.2" transform="translate(0.35 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_1-20" data-name="1" transform="translate(3.95 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">1</tspan></text>
+      </g>
+      <g id="schematic-13" data-name="schematic" transform="translate(1717.73 2097.92)">
+        <line id="Line_342" data-name="Line 342" y1="2.88" x2="1.08" transform="translate(7.55 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_343" data-name="Line 343" x2="1.8" y2="5.76" transform="translate(8.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_344" data-name="Line 344" y1="5.76" x2="1.8" transform="translate(10.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_345" data-name="Line 345" x2="1.8" y2="5.76" transform="translate(12.23 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_346" data-name="Line 346" y1="5.76" x2="1.8" transform="translate(14.03 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_347" data-name="Line 347" x2="1.8" y2="5.76" transform="translate(15.83 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_348" data-name="Line 348" y1="5.76" x2="1.8" transform="translate(17.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_349" data-name="Line 349" x2="1.8" y2="5.76" transform="translate(19.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_350" data-name="Line 350" y1="2.88" x2="0.72" transform="translate(21.23 3.096)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="connector1pin-21" data-name="connector1pin" x1="7.2" transform="translate(21.95 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_2-21" data-name="2" transform="translate(25.55 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">2</tspan></text>
+        <line id="connector0pin-21" data-name="connector0pin" x2="7.2" transform="translate(0.35 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_1-21" data-name="1" transform="translate(3.95 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">1</tspan></text>
+      </g>
+      <g id="schematic-14" data-name="schematic" transform="translate(1555.576 2143.865) rotate(90)">
+        <line id="Line_351" data-name="Line 351" y1="2.88" x2="1.08" transform="translate(7.55 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_352" data-name="Line 352" x2="1.8" y2="5.76" transform="translate(8.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_353" data-name="Line 353" y1="5.76" x2="1.8" transform="translate(10.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_354" data-name="Line 354" x2="1.8" y2="5.76" transform="translate(12.23 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_355" data-name="Line 355" y1="5.76" x2="1.8" transform="translate(14.03 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_356" data-name="Line 356" x2="1.8" y2="5.76" transform="translate(15.83 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_357" data-name="Line 357" y1="5.76" x2="1.8" transform="translate(17.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_358" data-name="Line 358" x2="1.8" y2="5.76" transform="translate(19.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_359" data-name="Line 359" y1="2.88" x2="0.72" transform="translate(21.23 3.096)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="connector1pin-22" data-name="connector1pin" x1="7.2" transform="translate(21.95 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_2-22" data-name="2" transform="translate(25.55 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">2</tspan></text>
+        <line id="connector0pin-22" data-name="connector0pin" x2="7.2" transform="translate(0.35 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_1-22" data-name="1" transform="translate(3.95 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">1</tspan></text>
+      </g>
+      <g id="schematic-15" data-name="schematic" transform="translate(1526.776 2143.865) rotate(90)">
+        <line id="Line_360" data-name="Line 360" y1="2.88" x2="1.08" transform="translate(7.55 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_361" data-name="Line 361" x2="1.8" y2="5.76" transform="translate(8.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_362" data-name="Line 362" y1="5.76" x2="1.8" transform="translate(10.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_363" data-name="Line 363" x2="1.8" y2="5.76" transform="translate(12.23 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_364" data-name="Line 364" y1="5.76" x2="1.8" transform="translate(14.03 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_365" data-name="Line 365" x2="1.8" y2="5.76" transform="translate(15.83 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_366" data-name="Line 366" y1="5.76" x2="1.8" transform="translate(17.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_367" data-name="Line 367" x2="1.8" y2="5.76" transform="translate(19.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_368" data-name="Line 368" y1="2.88" x2="0.72" transform="translate(21.23 3.096)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="connector1pin-23" data-name="connector1pin" x1="7.2" transform="translate(21.95 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_2-23" data-name="2" transform="translate(25.55 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">2</tspan></text>
+        <line id="connector0pin-23" data-name="connector0pin" x2="7.2" transform="translate(0.35 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_1-23" data-name="1" transform="translate(3.95 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">1</tspan></text>
+      </g>
+      <g id="schematic-16" data-name="schematic" transform="translate(1497.976 2143.865) rotate(90)">
+        <line id="Line_369" data-name="Line 369" y1="2.88" x2="1.08" transform="translate(7.55 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_370" data-name="Line 370" x2="1.8" y2="5.76" transform="translate(8.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_371" data-name="Line 371" y1="5.76" x2="1.8" transform="translate(10.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_372" data-name="Line 372" x2="1.8" y2="5.76" transform="translate(12.23 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_373" data-name="Line 373" y1="5.76" x2="1.8" transform="translate(14.03 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_374" data-name="Line 374" x2="1.8" y2="5.76" transform="translate(15.83 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_375" data-name="Line 375" y1="5.76" x2="1.8" transform="translate(17.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_376" data-name="Line 376" x2="1.8" y2="5.76" transform="translate(19.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_377" data-name="Line 377" y1="2.88" x2="0.72" transform="translate(21.23 3.096)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="connector1pin-24" data-name="connector1pin" x1="7.2" transform="translate(21.95 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_2-24" data-name="2" transform="translate(25.55 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">2</tspan></text>
+        <line id="connector0pin-24" data-name="connector0pin" x2="7.2" transform="translate(0.35 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_1-24" data-name="1" transform="translate(3.95 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">1</tspan></text>
+      </g>
+      <g id="schematic-17" data-name="schematic" transform="translate(1505.176 1999.865) rotate(90)">
+        <line id="Line_378" data-name="Line 378" y1="2.88" x2="1.08" transform="translate(7.55 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_379" data-name="Line 379" x2="1.8" y2="5.76" transform="translate(8.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_380" data-name="Line 380" y1="5.76" x2="1.8" transform="translate(10.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_381" data-name="Line 381" x2="1.8" y2="5.76" transform="translate(12.23 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_382" data-name="Line 382" y1="5.76" x2="1.8" transform="translate(14.03 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_383" data-name="Line 383" x2="1.8" y2="5.76" transform="translate(15.83 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_384" data-name="Line 384" y1="5.76" x2="1.8" transform="translate(17.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_385" data-name="Line 385" x2="1.8" y2="5.76" transform="translate(19.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_386" data-name="Line 386" y1="2.88" x2="0.72" transform="translate(21.23 3.096)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="connector1pin-25" data-name="connector1pin" x1="7.2" transform="translate(21.95 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_2-25" data-name="2" transform="translate(25.55 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">2</tspan></text>
+        <line id="connector0pin-25" data-name="connector0pin" x2="7.2" transform="translate(0.35 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_1-25" data-name="1" transform="translate(3.95 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">1</tspan></text>
+      </g>
+      <g id="schematic-18" data-name="schematic" transform="translate(1584.376 2143.865) rotate(90)">
+        <line id="Line_387" data-name="Line 387" y1="2.88" x2="1.08" transform="translate(7.55 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_388" data-name="Line 388" x2="1.8" y2="5.76" transform="translate(8.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_389" data-name="Line 389" y1="5.76" x2="1.8" transform="translate(10.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_390" data-name="Line 390" x2="1.8" y2="5.76" transform="translate(12.23 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_391" data-name="Line 391" y1="5.76" x2="1.8" transform="translate(14.03 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_392" data-name="Line 392" x2="1.8" y2="5.76" transform="translate(15.83 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_393" data-name="Line 393" y1="5.76" x2="1.8" transform="translate(17.63 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_394" data-name="Line 394" x2="1.8" y2="5.76" transform="translate(19.43 0.216)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="Line_395" data-name="Line 395" y1="2.88" x2="0.72" transform="translate(21.23 3.096)" stroke="#000" stroke-linecap="round" stroke-width="0.432"/>
+        <line id="connector1pin-26" data-name="connector1pin" x1="7.2" transform="translate(21.95 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_2-26" data-name="2" transform="translate(25.55 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">2</tspan></text>
+        <line id="connector0pin-26" data-name="connector0pin" x2="7.2" transform="translate(0.35 3.096)" stroke="#787878" stroke-linecap="round" stroke-width="0.7"/>
+        <text id="_1-26" data-name="1" transform="translate(3.95 2.046)" fill="#8c8c8c" font-size="2.5" font-family="SegoeUI, Segoe UI"><tspan x="-0.674" y="0">1</tspan></text>
+      </g>
+      <g id="schematic-19" data-name="schematic" transform="translate(1765.222 2108.713) rotate(90)">
+        <line id="Line_396" data-name="Line 396" x2="1.8" transform="translate(19.8 11.159)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.7"/>
+        <line id="Line_397" data-name="Line 397" y1="3.6" x2="12.6" transform="translate(7.2 7.559)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.7"/>
+        <circle id="Ellipse_8" data-name="Ellipse 8" cx="0.36" cy="0.36" r="0.36" transform="translate(6.84 10.799)" fill="none" stroke="#000" stroke-width="0.7"/>
+        <circle id="Ellipse_9" data-name="Ellipse 9" cx="0.36" cy="0.36" r="0.36" transform="translate(21.24 10.799)" fill="none" stroke="#000" stroke-width="0.7"/>
+        <g id="Group_370" data-name="Group 370" transform="translate(2.761 2.718)">
+          <text id="_1-27" data-name="1" fill="#787878" font-size="2" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1</tspan></text>
+        </g>
+        <g id="Group_371" data-name="Group 371" transform="translate(24.604 2.718)">
+          <text id="_2-27" data-name="2" fill="#787878" font-size="2" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2</tspan></text>
+        </g>
+        <g id="Group_372" data-name="Group 372" transform="translate(2.761 16.843)">
+          <text id="_1-28" data-name="1" fill="#787878" font-size="2" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1</tspan></text>
+        </g>
+        <g id="Group_373" data-name="Group 373" transform="translate(24.604 16.843)">
+          <text id="_2-28" data-name="2" fill="#787878" font-size="2" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2</tspan></text>
+        </g>
+        <line id="Line_398" data-name="Line 398" y2="14.399" transform="translate(21.6 3.96)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.7"/>
+        <line id="Line_399" data-name="Line 399" y2="14.399" transform="translate(7.2 3.96)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="0.7"/>
+        <line id="connector3pin-4" data-name="connector3pin" x2="6.878" transform="translate(0.322 18.359)" fill="none" stroke="#555" stroke-linecap="round" stroke-width="0.7"/>
+        <line id="connector2pin-9" data-name="connector2pin" x2="6.878" transform="translate(0.322 3.96)" fill="none" stroke="#555" stroke-linecap="round" stroke-width="0.7"/>
+        <line id="connector1pin-27" data-name="connector1pin" x1="6.851" transform="translate(21.6 18.359)" fill="none" stroke="#555" stroke-linecap="round" stroke-width="0.7"/>
+        <line id="connector0pin-27" data-name="connector0pin" x1="6.851" transform="translate(21.6 3.96)" fill="none" stroke="#555" stroke-linecap="round" stroke-width="0.7"/>
+      </g>
+      <line id="Line_400" data-name="Line 400" x1="28.652" y2="0.134" transform="translate(1566.88 1992.882)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <circle id="Ellipse_10" data-name="Ellipse 10" cx="1.44" cy="1.44" r="1.44" transform="translate(1565.44 1991.576)"/>
+      <line id="Line_401" data-name="Line 401" x1="0.103" y1="43.413" transform="translate(1595.532 1992.882)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <circle id="Ellipse_11" data-name="Ellipse 11" cx="1.44" cy="1.44" r="1.44" transform="translate(1594.195 2034.854)"/>
+      <line id="Line_402" data-name="Line 402" x2="7.155" y2="0.079" transform="translate(1588.48 2036.216)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_403" data-name="Line 403" y1="14.262" x2="0.134" transform="translate(1537.946 1993.016)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <circle id="Ellipse_12" data-name="Ellipse 12" cx="1.44" cy="1.44" r="1.44" transform="translate(1536.64 1991.576)"/>
+      <line id="Line_404" data-name="Line 404" x1="50.541" transform="translate(1537.946 2007.278)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_405" data-name="Line 405" y1="21.737" x2="0.007" transform="translate(1588.48 2007.278)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_406" data-name="Line 406" x1="237.477" y1="0.63" transform="translate(1530.77 1978.179)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <circle id="Ellipse_13" data-name="Ellipse 13" cx="1.44" cy="1.44" r="1.44" transform="translate(1766.807 1977.369)"/>
+      <line id="Line_407" data-name="Line 407" x1="57.737" transform="translate(1811.543 1978.65)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <circle id="Ellipse_14" data-name="Ellipse 14" cx="1.44" cy="1.44" r="1.44" transform="translate(1810.103 1977.21)"/>
+      <line id="Line_408" data-name="Line 408" x2="0.152" y2="57.969" transform="translate(1530.77 1978.179)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <circle id="Ellipse_15" data-name="Ellipse 15" cx="1.44" cy="1.44" r="1.44" transform="translate(1529.482 2034.708)"/>
+      <line id="Line_409" data-name="Line 409" y1="43.166" transform="translate(1869.28 1978.65)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_410" data-name="Line 410" x1="43.296" y2="0.159" transform="translate(1768.246 1978.65)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_411" data-name="Line 411" x1="0.042" y2="0.068" transform="translate(1530.88 2036.148)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_412" data-name="Line 412" x1="50.362" y2="0.005" transform="translate(1696.582 1971.435)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <circle id="Ellipse_16" data-name="Ellipse 16" cx="1.44" cy="1.44" r="1.44" transform="translate(1745.504 1969.995)"/>
+      <line id="Line_413" data-name="Line 413" y1="122" transform="translate(1899.5 1971.5)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_414" data-name="Line 414" x1="72.015" y1="0.084" transform="translate(1746.944 1971.435)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <circle id="Ellipse_17" data-name="Ellipse 17" cx="1.44" cy="1.44" r="1.44" transform="translate(1817.519 1970.079)"/>
+      <line id="Line_415" data-name="Line 415" x1="173.033" transform="translate(1523.549 1971.44)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <circle id="Ellipse_18" data-name="Ellipse 18" cx="1.44" cy="1.44" r="1.44" transform="translate(1695.142 1970)"/>
+      <line id="Line_416" data-name="Line 416" x1="80.541" transform="translate(1818.959 1971.519)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_417" data-name="Line 417" x2="0.226" y2="57.596" transform="translate(1523.549 1971.44)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_418" data-name="Line 418" y1="0.02" x2="7.104" transform="translate(1523.776 2029.016)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_419" data-name="Line 419" x2="30.22" transform="translate(1869.28 2093.816)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_420" data-name="Line 420" x2="7.279" y2="0.069" transform="translate(1696.401 2086.547)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_421" data-name="Line 421" x1="0.181" y2="115.107" transform="translate(1696.401 1971.44)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_422" data-name="Line 422" x1="28.662" y2="0.127" transform="translate(1782.88 2036.089)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_423" data-name="Line 423" x1="0.001" y2="57.439" transform="translate(1811.542 1978.65)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <circle id="Ellipse_19" data-name="Ellipse 19" cx="1.44" cy="1.44" r="1.44" transform="translate(1810.102 2034.649)"/>
+      <line id="Line_424" data-name="Line 424" y1="86.297" transform="translate(1818.959 1971.519)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_425" data-name="Line 425" x2="36.079" transform="translate(1782.88 2057.816)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_426" data-name="Line 426" x1="21.531" transform="translate(1782.88 2065.016)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_427" data-name="Line 427" y2="64.686" transform="translate(1804.411 2000.33)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_428" data-name="Line 428" x2="187.131" y2="0.097" transform="translate(1617.28 2000.233)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_429" data-name="Line 429" y1="79.095" transform="translate(1617.28 2000.233)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_430" data-name="Line 430" y1="0.088" x2="28.8" transform="translate(1588.48 2079.328)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_431" data-name="Line 431" x1="14.4" transform="translate(1782.88 2072.216)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_432" data-name="Line 432" y2="64.754" transform="translate(1797.28 2007.462)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_433" data-name="Line 433" x2="172.649" y2="0.183" transform="translate(1624.631 2007.278)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_434" data-name="Line 434" y1="50.563" x2="0.164" transform="translate(1624.467 2007.278)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_435" data-name="Line 435" x2="35.987" y2="0.025" transform="translate(1588.48 2057.816)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_436" data-name="Line 436" x1="7.268" transform="translate(1782.88 2050.616)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_437" data-name="Line 437" y2="36.023" transform="translate(1790.148 2014.593)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_438" data-name="Line 438" y1="0.037" x2="158.472" transform="translate(1631.676 2014.593)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_439" data-name="Line 439" y1="36.023" x2="0.021" transform="translate(1631.655 2014.63)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_440" data-name="Line 440" x2="43.175" y2="0.037" transform="translate(1588.48 2050.616)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_441" data-name="Line 441" x2="237" transform="translate(1602.803 1985.837)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_442" data-name="Line 442" y2="79" transform="translate(1840 1986)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_443" data-name="Line 443" y1="79.301" transform="translate(1602.803 1985.837)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_444" data-name="Line 444" x2="14.323" y2="0.122" transform="translate(1588.48 2065.016)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_445" data-name="Line 445" x1="21.722" transform="translate(1588.48 2072.216)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_446" data-name="Line 446" x1="223.294" y1="0.032" transform="translate(1609.928 1992.882)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_447" data-name="Line 447" x2="0.274" y2="79.334" transform="translate(1609.928 1992.882)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_448" data-name="Line 448" x1="0.058" y1="57.703" transform="translate(1833.222 1992.913)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_449" data-name="Line 449" x1="28.776" y1="0.023" transform="translate(1782.88 2079.416)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_450" data-name="Line 450" x2="0.114" y2="43.35" transform="translate(1811.542 2036.089)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <circle id="Ellipse_20" data-name="Ellipse 20" cx="1.44" cy="1.44" r="1.44" transform="translate(1810.216 2077.999)"/>
+      <line id="Line_451" data-name="Line 451" x1="0.078" y2="0.13" transform="translate(1494.802 2173.016)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_452" data-name="Line 452" x2="36.097" y2="0.134" transform="translate(1494.783 2050.482)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_453" data-name="Line 453" x1="0.097" y1="93.734" transform="translate(1494.783 2050.482)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_454" data-name="Line 454" x1="0.142" y1="14.338" transform="translate(1509.202 2187.546)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_455" data-name="Line 455" x1="43.223" transform="translate(1509.344 2201.884)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_456" data-name="Line 456" y1="7.262" x2="0.164" transform="translate(1552.402 2201.884)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_457" data-name="Line 457" x1="0.076" y1="7.094" transform="translate(1538.002 2187.546)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_458" data-name="Line 458" x1="21.491" transform="translate(1538.078 2194.64)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_459" data-name="Line 459" x1="0.033" y1="14.506" transform="translate(1559.569 2194.64)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_460" data-name="Line 460" y2="21.6" transform="translate(1566.802 2187.546)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_461" data-name="Line 461" y1="7.247" transform="translate(1595.631 2187.521)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_462" data-name="Line 462" x1="0.029" y2="0.025" transform="translate(1595.602 2187.521)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_463" data-name="Line 463" x2="21.547" y2="0.041" transform="translate(1574.084 2194.727)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_464" data-name="Line 464" y1="14.419" x2="0.082" transform="translate(1574.002 2194.727)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_465" data-name="Line 465" x1="21.524" transform="translate(1602.878 2194.769)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_466" data-name="Line 466" x1="0.076" y2="14.377" transform="translate(1602.802 2194.769)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_467" data-name="Line 467" y2="7.223" transform="translate(1624.402 2187.546)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_468" data-name="Line 468" x2="28.723" transform="translate(1538.22 2108.333)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <circle id="Ellipse_21" data-name="Ellipse 21" cx="1.44" cy="1.44" r="1.44" transform="translate(1536.78 2106.893)"/>
+      <line id="Line_469" data-name="Line 469" x1="0.142" y2="50.413" transform="translate(1566.802 2108.333)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <circle id="Ellipse_22" data-name="Ellipse 22" cx="1.44" cy="1.44" r="1.44" transform="translate(1565.503 2106.893)"/>
+      <line id="Line_470" data-name="Line 470" x2="7.394" transform="translate(1530.826 2108.333)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <circle id="Ellipse_23" data-name="Ellipse 23" cx="1.44" cy="1.44" r="1.44" transform="translate(1529.386 2106.893)"/>
+      <line id="Line_471" data-name="Line 471" x1="0.096" y2="72.185" transform="translate(1530.826 2036.148)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_472" data-name="Line 472" x1="0.111" y2="50.574" transform="translate(1595.602 2108.172)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <circle id="Ellipse_24" data-name="Ellipse 24" cx="1.44" cy="1.44" r="1.44" transform="translate(1594.273 2106.732)"/>
+      <line id="Line_473" data-name="Line 473" y1="0.161" x2="28.77" transform="translate(1566.943 2108.172)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_474" data-name="Line 474" x1="0.067" y2="50.574" transform="translate(1624.402 2108.172)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_475" data-name="Line 475" x2="28.756" transform="translate(1595.713 2108.172)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_476" data-name="Line 476" x1="0.219" y2="50.413" transform="translate(1538.002 2108.333)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_477" data-name="Line 477" x1="21.613" transform="translate(1509.213 2144.166)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_478" data-name="Line 478" x1="0.011" y2="14.58" transform="translate(1509.202 2144.166)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_479" data-name="Line 479" y2="35.833" transform="translate(1530.826 2108.333)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_480" data-name="Line 480" x2="36.152" transform="translate(1595.635 2093.861)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_481" data-name="Line 481" x1="0.019" y2="108.023" transform="translate(1631.768 2093.861)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_482" data-name="Line 482" x1="0.034" y2="7.262" transform="translate(1610.002 2201.884)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_483" data-name="Line 483" x1="21.732" transform="translate(1610.036 2201.884)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_484" data-name="Line 484" y2="57.567" transform="translate(1595.635 2036.294)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_485" data-name="Line 485" x1="0.064" y1="14.42" transform="translate(1746.88 1957.016)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_486" data-name="Line 486" y1="21.793" x2="0.233" transform="translate(1768.247 1957.016)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_487" data-name="Line 487" x1="0.078" y2="36.13" transform="translate(1638.802 2173.016)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_488" data-name="Line 488" y1="21.537" transform="translate(1826.122 2021.963)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_489" data-name="Line 489" x1="187.305" transform="translate(1638.817 2021.963)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_490" data-name="Line 490" x2="0.063" y2="122.253" transform="translate(1638.817 2021.963)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_491" data-name="Line 491" x2="43.242" y2="0.084" transform="translate(1782.88 2043.416)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_492" data-name="Line 492" x1="0.077" y2="36.13" transform="translate(1646.003 2173.016)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_493" data-name="Line 493" x1="0.078" y2="36.13" transform="translate(1653.202 2173.016)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_494" data-name="Line 494" y1="36.13" x2="0.078" transform="translate(1667.602 2173.016)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_495" data-name="Line 495" y1="28.93" x2="0.077" transform="translate(1660.403 2173.016)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_496" data-name="Line 496" x1="0.079" y2="36.13" transform="translate(1674.801 2173.016)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_497" data-name="Line 497" x1="0.077" y2="36.13" transform="translate(1682.003 2173.016)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_498" data-name="Line 498" x1="0.078" y2="36.13" transform="translate(1689.202 2173.016)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_499" data-name="Line 499" y1="0.009" x2="57.563" transform="translate(1646.117 2036.216)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_500" data-name="Line 500" y1="107.991" x2="0.037" transform="translate(1646.08 2036.225)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_501" data-name="Line 501" x1="0.009" y1="100.837" transform="translate(1653.271 2043.379)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_502" data-name="Line 502" x2="50.409" y2="0.037" transform="translate(1653.271 2043.379)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_503" data-name="Line 503" x2="43.256" y2="0.084" transform="translate(1660.424 2050.532)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_504" data-name="Line 504" x1="0.056" y1="93.684" transform="translate(1660.424 2050.532)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_505" data-name="Line 505" x1="0.103" y1="86.307" transform="translate(1667.577 2057.909)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_506" data-name="Line 506" y1="0.093" x2="36.103" transform="translate(1667.577 2057.816)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_507" data-name="Line 507" y1="0.046" x2="28.726" transform="translate(1674.954 2065.016)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_508" data-name="Line 508" y1="79.154" x2="0.074" transform="translate(1674.88 2065.062)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_509" data-name="Line 509" x2="21.572" transform="translate(1682.108 2072.216)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_510" data-name="Line 510" y1="72" x2="0.028" transform="translate(1682.08 2072.216)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_511" data-name="Line 511" x2="14.419" y2="0.047" transform="translate(1689.261 2079.369)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_512" data-name="Line 512" x1="0.019" y1="64.847" transform="translate(1689.261 2079.369)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_513" data-name="Line 513" y1="0.02" x2="7.26" transform="translate(1502.08 1971.395)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_514" data-name="Line 514" x2="28.74" y2="0.072" transform="translate(1509.34 1992.944)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <circle id="Ellipse_25" data-name="Ellipse 25" cx="1.44" cy="1.44" r="1.44" transform="translate(1536.64 1991.576)"/>
+      <line id="Line_515" data-name="Line 515" y2="21.549" transform="translate(1509.34 1971.395)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_516" data-name="Line 516" transform="translate(1502.08 2000.215)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <circle id="Ellipse_26" data-name="Ellipse 26" cx="1.44" cy="1.44" r="1.44" transform="translate(1500.64 1998.776)"/>
+      <line id="Line_517" data-name="Line 517" x2="57.529" transform="translate(1509.34 2000.256)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_518" data-name="Line 518" y1="28.669" transform="translate(1509.34 2000.256)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_519" data-name="Line 519" y1="7.24" x2="0.01" transform="translate(1566.869 1993.016)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <circle id="Ellipse_27" data-name="Ellipse 27" cx="1.44" cy="1.44" r="1.44" transform="translate(1565.44 1991.576)"/>
+      <line id="Line_520" data-name="Line 520" y1="0.091" x2="7.26" transform="translate(1502.08 2028.924)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_521" data-name="Line 521" x1="7.17" y2="0.04" transform="translate(1494.909 2000.216)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <circle id="Ellipse_28" data-name="Ellipse 28" cx="1.44" cy="1.44" r="1.44" transform="translate(1500.64 1998.776)"/>
+      <line id="Line_522" data-name="Line 522" y2="43.099" transform="translate(1494.909 2000.256)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_523" data-name="Line 523" x2="35.97" y2="0.061" transform="translate(1494.909 2043.355)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_524" data-name="Line 524" y1="0.13" x2="0.078" transform="translate(1523.602 2173.016)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_525" data-name="Line 525" y1="0.13" x2="0.078" transform="translate(1552.402 2173.016)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_526" data-name="Line 526" y1="0.13" x2="0.078" transform="translate(1581.202 2173.016)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_527" data-name="Line 527" y1="0.13" x2="0.078" transform="translate(1610.002 2173.016)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_528" data-name="Line 528" x2="21.613" transform="translate(1502.103 2137.056)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_529" data-name="Line 529" x2="0.119" y2="79.195" transform="translate(1501.985 2057.861)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_530" data-name="Line 530" x1="0.037" y2="7.16" transform="translate(1523.68 2137.056)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_531" data-name="Line 531" x1="28.895" y2="0.045" transform="translate(1501.985 2057.816)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_532" data-name="Line 532" x1="21.604" y1="0.092" transform="translate(1509.276 2064.924)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_533" data-name="Line 533" x2="43.227" transform="translate(1509.213 2129.946)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_534" data-name="Line 534" x1="0.063" y2="65.022" transform="translate(1509.213 2064.924)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_535" data-name="Line 535" x2="0.04" y2="14.27" transform="translate(1552.44 2129.946)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_536" data-name="Line 536" x1="0.04" y1="50.336" transform="translate(1516.568 2072.216)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_537" data-name="Line 537" x1="0.117" y1="21.664" transform="translate(1581.163 2122.552)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_538" data-name="Line 538" x2="14.312" transform="translate(1516.568 2072.216)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_539" data-name="Line 539" x1="64.556" transform="translate(1516.607 2122.552)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_540" data-name="Line 540" x1="86.453" transform="translate(1523.717 2115.443)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_541" data-name="Line 541" y1="0.091" x2="7.249" transform="translate(1523.631 2079.416)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_542" data-name="Line 542" y1="28.773" x2="0.09" transform="translate(1610.08 2115.443)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_543" data-name="Line 543" x1="0.086" y1="35.936" transform="translate(1523.631 2079.507)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_544" data-name="Line 544" x1="2.559" transform="translate(1535.5 2093.763)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_545" data-name="Line 545" y1="6.884" transform="translate(1535.449 2086.616)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_546" data-name="Line 546" x1="179.835" y1="0.154" transform="translate(1538.22 2100.939)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_547" data-name="Line 547" x1="0.025" y2="0.077" transform="translate(1718.055 2101.016)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_548" data-name="Line 548" y1="7" transform="translate(1538.255 2093.763)" stroke="#404040" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_549" data-name="Line 549" x1="0.032" y2="8.115" transform="translate(1746.848 2101.016)" stroke="#999" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_550" data-name="Line 550" y2="57.494" transform="translate(1811.656 2079.439)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_551" data-name="Line 551" x1="50.394" y2="0.036" transform="translate(1761.262 2136.933)" stroke="#cc1414" stroke-linecap="round" stroke-width="0.7"/>
+      <text id="BAT_4000" data-name="BAT 4000" transform="translate(1561.872 1987.096)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">BAT 4000</tspan></text>
+      <text id="U1" transform="translate(1782.88 2027.166)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">U1</tspan></text>
+      <text id="Q1-2" data-name="Q1" transform="translate(1509.552 2156.545)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Q1</tspan></text>
+      <text id="Q2-2" data-name="Q2" transform="translate(1538.352 2156.545)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Q2</tspan></text>
+      <text id="Q3-2" data-name="Q3" transform="translate(1567.152 2156.545)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Q3</tspan></text>
+      <text id="Q5-2" data-name="Q5" transform="translate(1624.752 2156.545)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Q5</tspan></text>
+      <text id="Q4-2" data-name="Q4" transform="translate(1595.952 2156.545)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Q4</tspan></text>
+      <text id="C2" transform="translate(1747.997 1943)" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">C2</tspan></text>
+      <text id="_100nF" data-name="100nF" transform="translate(1747.997 1948)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">100nF</tspan></text>
+      <g id="schematicLabel" transform="translate(1641.585 2188.006) rotate(-90)">
+        <text id="_240Ω" data-name="240Ω" transform="translate(0 3.75)" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">240Ω</tspan></text>
+      </g>
+      <g id="schematicLabel-2" data-name="schematicLabel" transform="translate(1634.385 2188.006) rotate(-90)">
+        <text id="_240Ω-2" data-name="240Ω" transform="translate(0 3.75)" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">240Ω</tspan></text>
+      </g>
+      <g id="schematicLabel-3" data-name="schematicLabel" transform="translate(1655.985 2188.006) rotate(-90)">
+        <text id="_240Ω-3" data-name="240Ω" transform="translate(0 3.75)" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">240Ω</tspan></text>
+      </g>
+      <g id="schematicLabel-4" data-name="schematicLabel" transform="translate(1670.385 2188.006) rotate(-90)">
+        <text id="_240Ω-4" data-name="240Ω" transform="translate(0 3.75)" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">240Ω</tspan></text>
+      </g>
+      <g id="schematicLabel-5" data-name="schematicLabel" transform="translate(1684.785 2188.006) rotate(-90)">
+        <text id="_240Ω-5" data-name="240Ω" transform="translate(0 3.75)" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">240Ω</tspan></text>
+      </g>
+      <g id="schematicLabel-6" data-name="schematicLabel" transform="translate(1677.585 2188.006) rotate(-90)">
+        <text id="_240Ω-6" data-name="240Ω" transform="translate(0 3.75)" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">240Ω</tspan></text>
+      </g>
+      <g id="schematicLabel-7" data-name="schematicLabel" transform="translate(1663.185 2188.006) rotate(-90)">
+        <text id="_240Ω-7" data-name="240Ω" transform="translate(0 3.75)" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">240Ω</tspan></text>
+      </g>
+      <g id="schematicLabel-8" data-name="schematicLabel" transform="translate(1648.785 2188.006) rotate(-90)">
+        <text id="_240Ω-8" data-name="240Ω" transform="translate(0 3.75)" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">240Ω</tspan></text>
+      </g>
+      <text id="_4.7kΩ" data-name="4.7kΩ" transform="translate(1723.938 2109.538)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">4.7kΩ</tspan></text>
+      <g id="schematicLabel-9" data-name="schematicLabel" transform="translate(1504.174 2152.315) rotate(90)">
+        <text id="_10kΩ" data-name="10kΩ" transform="translate(0 3.75)" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">10kΩ</tspan></text>
+      </g>
+      <g id="schematicLabel-10" data-name="schematicLabel" transform="translate(1619.374 2152.315) rotate(90)">
+        <text id="_10kΩ-2" data-name="10kΩ" transform="translate(0 3.75)" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">10kΩ</tspan></text>
+      </g>
+      <g id="schematicLabel-11" data-name="schematicLabel" transform="translate(1590.574 2152.315) rotate(90)">
+        <text id="_10kΩ-3" data-name="10kΩ" transform="translate(0 3.75)" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">10kΩ</tspan></text>
+      </g>
+      <g id="schematicLabel-12" data-name="schematicLabel" transform="translate(1532.974 2152.315) rotate(90)">
+        <text id="_10kΩ-4" data-name="10kΩ" transform="translate(0 3.75)" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">10kΩ</tspan></text>
+      </g>
+      <g id="schematicLabel-13" data-name="schematicLabel" transform="translate(1561.774 2152.315) rotate(90)">
+        <text id="_10kΩ-5" data-name="10kΩ" transform="translate(0 3.75)" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">10kΩ</tspan></text>
+      </g>
+      <g id="schematicLabel-14" data-name="schematicLabel" transform="translate(1515.222 2007.431) rotate(90)">
+        <text id="_100kΩ" data-name="100kΩ" transform="translate(0 3.75)" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">100kΩ</tspan></text>
+      </g>
+      <g id="schematicLabel-15" data-name="schematicLabel" transform="translate(1770.822 2137.513) rotate(90)">
+        <text id="S1" transform="translate(0 3.75)" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">S1</tspan></text>
+      </g>
+      <g id="schematicLabel-16" data-name="schematicLabel" transform="translate(1515.243 1976.593) rotate(90)">
+        <text id="_100kΩ-2" data-name="100kΩ" transform="translate(0 3.75)" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">100kΩ</tspan></text>
+      </g>
+      <text id="ESP32-C3_BEETLE" data-name="ESP32-C3 BEETLE" transform="translate(1538.962 2018.154)" fill="#505050" font-size="3.74" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">ESP32-C3 BEETLE</tspan></text>
+    </g>
+  </g>
+</svg>
