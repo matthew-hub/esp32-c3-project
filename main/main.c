@@ -47,7 +47,7 @@ static const char *TAG = "ESP32-C3";
 // array of digits pin
 const uint8_t DIG_PINS[4] = {DIG_1_PIN, DIG_2_PIN, DIG_3_PIN, DIG_4_PIN};
 // array of numbers to display
-uint8_t NUMBERS_TO_DISPLAY[4] = {2, 0, 0, 1};
+uint8_t NUMBERS_TO_DISPLAY[4] = {8, 8, 8, 8};
 // order of the digit
 int ORDER_DIGITS = 0;
 
@@ -190,7 +190,7 @@ void app_main(void)
   // set as output mode
   io_conf.mode = GPIO_MODE_OUTPUT;
   // bit mask of the pins that you want to set,e.g.GPIO18/19
-  io_conf.pin_bit_mask = (1ULL << GPIO_NUM_0) | (1ULL << DIG_1_PIN) | (1ULL << DIG_2_PIN) | (1ULL << DIG_3_PIN) | (1ULL << DIG_4_PIN);
+  io_conf.pin_bit_mask = (1ULL << GPIO_NUM_0) | (1ULL << DIG_1_PIN) | (1ULL << DIG_2_PIN) | (1ULL << DIG_3_PIN) | (1ULL << DIG_4_PIN) | (1ULL << GPIO_NUM_7);
   // disable pull-down mode
   io_conf.pull_up_en = GPIO_PULLUP_DISABLE;
   io_conf.pull_down_en = GPIO_PULLDOWN_DISABLE;
@@ -199,16 +199,15 @@ void app_main(void)
 
   // enable power supply of display
   gpio_set_level(GPIO_NUM_0, 0);
+  gpio_set_level(GPIO_NUM_7, 0);
   // disable all digit of display
   gpio_set_level(DIG_1_PIN, 1);
   gpio_set_level(DIG_2_PIN, 1);
   gpio_set_level(DIG_3_PIN, 1);
   gpio_set_level(DIG_4_PIN, 1);
 
-  // gpio_set_direction(GPIO_NUM_10, GPIO_MODE_OUTPUT);
-  // gpio_set_level(GPIO_NUM_10, 1);
-  // First button connected between GPIO and GND
-  // pressed logic level 0, no autorepeat
+  // First button connected between GPIO and VCC
+  // pressed logic level 1, no autorepeat
   btn1.gpio = GPIO_NUM_10;
   btn1.pressed_level = 1;
   btn1.internal_pull = true;
@@ -248,7 +247,7 @@ void app_main(void)
   ESP_ERROR_CHECK(gptimer_register_event_callbacks(gptimer, &cbs, queue));
   ESP_LOGI(TAG, "Enable timer");
   ESP_ERROR_CHECK(gptimer_enable(gptimer));
-  ESP_ERROR_CHECK(gptimer_start(gptimer));
+  // ESP_ERROR_CHECK(gptimer_start(gptimer));
 
   ESP_ERROR_CHECK(i2cdev_init());
   // xTaskCreate(aht20_task, "AHT_20:", configMINIMAL_STACK_SIZE * 8, NULL, 5, NULL);
@@ -370,3 +369,5 @@ static void example_adc_calibration_deinit(adc_cali_handle_t handle)
   ESP_ERROR_CHECK(adc_cali_delete_scheme_line_fitting(handle));
 #endif
 }
+
+// TODO: change resistor value "COLA COLC" of schema
